@@ -208,7 +208,7 @@ const Library = () => {
                                         AC I
                                         </th>
                                         <td className="px-6 py-4 ">
-                                            <Link href="/download/Bib/J2/ACI.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">ckript: Mezzeti</Link>
+                                            <Link href="/download/Bib/J2/ACI.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Sckript: Mezzeti</Link>
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
