@@ -46,7 +46,7 @@ const Library = () => {
                                         <th scope="col" className="px-6 py-3">
                                             Lecture
                                         </th>
-                                        <th scope="col" className="px-6 py-3 hidden md:block">
+                                        <th scope="col" className="px-6 py-3">
                                             Document
                                         </th>
 
@@ -196,7 +196,7 @@ const Library = () => {
                                         <th scope="col" className="px-6 py-3">
                                             Lecture
                                         </th>
-                                        <th scope="col" className="px-6 py-3 hidden md:block">
+                                        <th scope="col" className="px-6 py-3 ">
                                             Document
                                         </th>
                                         
@@ -344,7 +344,7 @@ const Library = () => {
                                         <th scope="col" className="px-6 py-3">
                                             Lecture
                                         </th>
-                                        <th scope="col" className="px-6 py-3 hidden md:block">
+                                        <th scope="col" className="px-6 py-3">
                                             Document
                                         </th>
 
