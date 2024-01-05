@@ -34,7 +34,7 @@ const FS24 = () => {
                         <div>
                         <p className="text-gray-500">
                         Here you can find Anki flashcards.
-                            Created by Thea Ortner, revised by Lilly Malornry, with key concepts from ACOC I.
+                            Created by Thea Ortner, revised by Lilly Malornry, with key concepts from ACOC II.
                         </p>
                         </div>
                     <div>

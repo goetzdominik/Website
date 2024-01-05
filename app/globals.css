@@ -72,7 +72,7 @@
 
 .overlay_text {
   position: absolute;
-  top: 30%;
+  top: 10%;
 
   padding-left: 10%;
   padding-right: 10%;
@@ -82,6 +82,12 @@
   display: none;
   text-align: center; /* Ensures text is centered if it wraps to a new line */
   z-index: 20;
+}
+
+@media (min-width: 992px) {
+  .overlay_text {
+    top: 30%;
+  }
 }
 
 .gallery_card:hover .overlay_text {
