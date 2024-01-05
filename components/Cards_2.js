@@ -40,13 +40,17 @@ const Cards_2 = () => {
                         </div>
                     </Link>
                     <Link className = "card  "   href = "/Teaching/HS22">
-                    <Image isZoomed src="/img/info.jpg" alt="InforamticsI" width={540 }  height={540}/>
+                    <Image isZoomed src="/img/Main/info.jpg" alt="InforamticsI" width={540 }  height={540}/>
                         <div className = "m-4">
                             <span className =" font-bold"> Informatics I  </span>
                             <span className = "block text-gray-500 dark:text-gray-400 "> Slides and Ankis for the lecture.</span>
                         </div>
                         <div className = "badge_left">
                             <span>HS22</span>
+                            
+                        </div>
+                        <div className = "badge_right">
+                            <span>AI generated</span>
                             
                         </div>
                         
