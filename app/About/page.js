@@ -11,10 +11,14 @@ const About = () => {
                     This Home page 
                     </h2>
                     <p className="text-gray-500">
-                    This homepage started as a little hobby of mine. I wanted to provide the students in my class with a way to get my slides, without using classic services like polybox.
-                    So being inspired by my computer science faltmates I started this project. Over time this website has seen many designs and has also become my personal homepage. 
-                    The teaching identity of this page is still conserved and is still my priority but you can now also find out more about what I am doing and if you are interested you can get in thouch with me. I store my posters here 
-                    so that they are availiable online. Addionally in the future I will post what I, as a part of a wonderful team, am doing in the Student Bio Lab. 
+                    Welcome to my homepage! Initially created as a resource for my students, this site has 
+                    evolved into both a teaching tool and a personal space where I share my work and ideas.
+                    Originally, this site was designed to share slides with my students, moving away from 
+                    traditional services like Polybox. Inspired by my computer science flatmates, I embarked 
+                    on this project.
+                    Over time it has undergone various redesigns serving not only as an educational platform but also as my personal online space.
+                    Here, you can access my teaching materials, view my posters, and learn more about my projects. Looking ahead, I plan to showcase our exciting work in the Student Bio Lab.
+                    If you're interested in my work or have any queries, feel free to get in touch! 
                     </p>
                 </div>
                 <div className =" sm:w-2/5 text_card">
@@ -22,8 +26,7 @@ const About = () => {
                     Me 
                     </h2>
                     <p className="text-gray-500 ">
-                    My name is Dominik, and I am currently in my 6th semester of Biochemistry - Chemical Biology at ETH Zurich. I am a passionate teaching assistant with an
-                    avid interest in organic chemistry, chemical biology and bioinformatics. I recently started branching out into the materials department, because of their work with soft 
+                    Hello! My name is Dominik, a Biochemistry - Chemical Biology student in my 6th semester at ETH Zurich.As a teaching assistant, I am deeply passionate about organic chemistry, chemical biology, and bioinformatics. I recently started branching out into the materials department, because of their work with soft 
                     materials. 
                     
                     
