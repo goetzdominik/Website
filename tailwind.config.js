@@ -24,7 +24,7 @@ module.exports = {
         body: ['Merriweather ']
       },
       fontSize:{
-        xxs: ['0.5rem', { lineHeight: '0.75' }],
+        xxs: ['0.7rem', { lineHeight: '0.75' }],
 
       },
       backgroundImage: {

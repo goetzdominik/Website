@@ -42,11 +42,11 @@
   @apply bg-white text-lg dark:bg-nav_col_dark rounded-md shadow-md  overflow-hidden relative  border-2 dark:border-gray-800  border-gray-50 p-4 ;
 }
 .badge_right {
-  @apply bg-gray-300 z-20 text-gray-500  text-xs uppercase font-bold rounded-full p-2 mt-2 mr-2 absolute  top-0 right-0;
+  @apply bg-gray-300 z-20 text-gray-500  text-xxs uppercase font-bold rounded-full p-2 mt-2 mr-2 absolute  top-0 right-0;
 }
 
 .badge_left {
-  @apply bg-gray-300 z-20 text-gray-500 text-xs uppercase font-bold rounded-full p-2 mt-2 ml-2 absolute top-0;
+  @apply bg-gray-300 z-20 text-gray-500 text-xxs uppercase font-bold rounded-full p-2 mt-2 ml-2 absolute top-0;
 }
 
 .text_card_grid {
