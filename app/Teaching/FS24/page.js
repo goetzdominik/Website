@@ -57,7 +57,7 @@ const FS24 = () => {
             </div>
             <div> 
                 {/* start of table */}
-                <div className="relative overflow-x-auto shadow-md rounded-lg mt-8  m-4">
+                <div className="relative overflow-x-auto shadow-md rounded-lg mt-8 ">
                     <table className="w-full  text-left rtl:text-right text-gray-500 ">
                         <thead className="text-xs text-primary uppercase bg-gray-200  ">
                             <tr>
