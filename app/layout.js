@@ -7,7 +7,7 @@ import Navbar from '@/components/Navbar'
 import MainBody from '@/components/MainBody'
 import Navbar_new from '@/components/Navbar_new'
 import { NextUIProvider } from '@nextui-org/react'
-
+import { Analytics } from '@vercel/analytics/react';
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -34,7 +34,7 @@ export default function RootLayout({ children }) {
           <Navbar_new/>
           <div className="flexflex-col items-center justify-between pl-6 pr-6 pt-24 pb-12 sm:pl-12 md:pl-36 sm:pr-12 md:pr-36 sm:pb-6 md:pb-12 sm:pt-12 md:pt-24  font-body">
           {children}
-
+          <Analytics />
           </div>
           </div>
 
