@@ -30,7 +30,7 @@ const Library = () => {
 
         
 
-            <div className = " lg:grid-cols-3 grid  "> 
+            <div className = " lg:grid-cols-3 grid gap-8 "> 
                 <div className > 
                     {/* first table  */}
                     <h1 className = " page_subtitle">
@@ -356,7 +356,8 @@ const Library = () => {
                                         MSB I 
                                         </th>
                                         <td className="px-6 py-4 ">
-                                            <Link href="/download/FS23/Periodensystem.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">PSE</Link>
+                                           TBA
+                                            {/* <Link href="/download/FS23/Periodensystem.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">PSE</Link> */}
                                         </td> 
                                     </tr> 
 
