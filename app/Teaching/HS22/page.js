@@ -9,10 +9,10 @@ const HS22 = () => {
         <div className=" text_card_grid">
             <div className =" sm:w-2/5 text_card ">
                 <h2>
-                529-0001-00L - Informatik I
+                529-0001-00L - Informatics I
                 </h2>
                 <p className="text-gray-500">
-                Informatik I Vorlesung für Biochemie, Chemie, Chemieingenieurwissenschaften und Interdisziplinäre Naturwissenschaften - Biochemisch-Physikalische Fachrichtung.
+                Informatics I Lecture for Biochemistry, Chemistry, Chemical Engineering, and Interdisciplinary Natural Sciences - Biochemical-Physical Specialization.
                 </p>
             </div>
             <div className =" sm:w-3/5 text_card">
@@ -23,7 +23,7 @@ const HS22 = () => {
                 </div>
                 <div>
                     <p className="text-gray-500 ">
-                    Padlett mit wichtigen Informationen zur Organisation der Übungsstunde. Ausserdem ist dort ein Link zu einem privaten Repository zu finden, das viele nützlichen Dokumenten für das erste Jahr am Departement D-CHAB enthält.
+                    Padlet with important information for organizing the tutorial session. Additionally, there is a link to a private repository containing many useful documents for the first year at the Department D-CHAB.
 
                     </p>
                 </div>
@@ -46,7 +46,7 @@ const HS22 = () => {
                     </div>
                     <div>
                         <p className="text-gray-500">
-                        Here you can find the most important flashcards
+                        Here you can find the most important flashcards.
                         </p>
                     </div>
                 </div>
@@ -65,7 +65,7 @@ const HS22 = () => {
                 Slides
                 </h2>
                 <p className="text-gray-500 ">
-                Unten findet ihr meine Notizen zur Übungsstunde mit Tipps zu den Serien. Diese dienen auf keinen Fall als Ersatz für das Skripts oder der Vorlesung und sollten nur als zusätzliche Hilfsmittel benutzt werden. Damit ihr Zugriff darauf habt, braucht ihr einen gültigen ETH-Login.
+                Below you will find my notes for the tutorial session with tips for the series. These are in no way a substitute for the scripts or the lecture and should only be used as additional aids.
 
                 </p>
             </div>

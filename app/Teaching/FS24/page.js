@@ -8,7 +8,7 @@ const FS24 = () => {
             <div className=" text_card_grid">
                 <div className =" sm:w-3/5 text_card ">
                     <h2>
-                    529-0011-03L Allgemeine Chemie II (OC)
+                    529-0012-03L Allgemeine Chemie II (OC)
                     </h2>
                     <p className="text-gray-500">
                     Slides and solutions for the exercise class, accompanying the ACOC II lecture by Prof. Chen. This lecutre is for students of the D-Chab at ETH Zürich, second semester.
@@ -19,7 +19,7 @@ const FS24 = () => {
                     Slides
                     </h2>
                     <p className="text-gray-500 ">
-                    Below, you'll find my notes for the exercise session and tips on the series. These are by no means a substitute for the scripts or the lecture and should only be used as additional aids. To access them, you'll need a valid ETH login.
+                    Below you will find my notes for the tutorial session with tips for the series. These are in no way a substitute for the scripts or the lecture and should only be used as additional aids.
 
                     </p>
                 </div>

@@ -8,18 +8,18 @@ const FS23 = () => {
             <div className=" text_card_grid">
                 <div className =" sm:w-2/5 text_card ">
                     <h2>
-                    529-0012-02L Algemeine Chemie II (AC)
+                    529-0012-02L Algemeine Chemie II 
                     </h2>
                     <p className="text-gray-500">
-                    Allgemein Chemie 2, Anorganische Chemie Vorlesung für Biochemie, Chemie, Chemieingenieurwissenschaften und Interdisziplinäre Naturwissenschaften - Biochemisch-Physikalische Fachrichtung.
+                    General Chemistry 2, Inorganic Chemistry "Lecture for Biochemistry, Chemistry, Chemical Engineering, and Interdisciplinary Natural Sciences - Biochemical-Physical Specialization.
                     </p>
                 </div>
                 <div className =" sm:w-2/5 text_card">
                     <h2>
-                    Folien
+                    Slides
                     </h2>
                     <p className="text-gray-500 ">
-                    Unten findet ihr meine Notizen zur Übungsstunde und Tipps zu den Serien. Diese dienen auf keinen Fall als Ersatz für das Skripts oder der Vorlesung und sollten nur als zusätzliche Hilfsmittel benutzt werden. Damit ihr Zugriff darauf habt, braucht ihr einen gültigen ETH-Login.
+                    Below you will find my notes for the tutorial session with tips for the series. These are in no way a substitute for the scripts or the lecture and should only be used as additional aids.
 
                     </p>
                 </div>
@@ -31,7 +31,7 @@ const FS23 = () => {
                         </div>
                         <div>
                         <p className="text-gray-500">
-                        Anki Decks (Karteikarten) von Dominik Götz und Sophie Hell mit den wichtigsten Kristallgittern und Formeln.
+                        Ankis (flashcards) made by Dominik Götz and Sophie Hell containing the most important cristal strucutres and formulas.
                         </p>
                         </div>
                     <div>
