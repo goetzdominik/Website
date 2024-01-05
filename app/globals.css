@@ -82,7 +82,7 @@
   display: none;
   text-align: center; /* Ensures text is centered if it wraps to a new line */
   z-index: 20;
-  text-size-adjust: 3xl;
+
 }
 
 @media (min-width: 992px) {
@@ -90,7 +90,7 @@
     top: 30%;
     padding-left: 10%;
     padding-right: 10%;
-    text: md;
+
   }
 }
 
