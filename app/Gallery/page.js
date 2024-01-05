@@ -6,7 +6,7 @@ const Gallery = () => {
     <div className="pt-12">
       <h1 className="page_title">Gallery</h1>
 
-      <div className="grid grid-cols-2 pt-8 p-4 lg:grid-cols-4 gap-8">
+      <div className="grid grid-cols-2 pt-8  lg:grid-cols-4 gap-8">
         {/* Row 1 */}
         <div className="grid gap-4">
           {/* Column 1 */}
