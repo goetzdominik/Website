@@ -12,7 +12,7 @@ const Gallery = () => {
           {/* Column 1 */}
           <div className="gallery_card">
             <Image radius="lg"  className="image_content" src="/img/Gallery/vcs_small.jpg" alt="1" fill={true}/>
-            <div className="overlay_text z-20">VCS - Culture Komission Board Member</div>
+            <div className="overlay_text z-20">VCS - Culture Komission Board Member (HS22)</div>
           </div>
           {/* Column 2 */}
           <div className="gallery_card">
@@ -39,7 +39,7 @@ const Gallery = () => {
           </div>
           <div className="gallery_card">
             <Image radius="lg"  className="image_content" src="/img/Gallery/london_small.JPG" alt="3" fill={true}/>
-            <div className="overlay_text">Exchange week between ETH Zurich and ICL</div>
+            <div className="overlay_text">Exchange week between ETH Zurich and ICL (FS23)</div>
           </div>
         </div>
 
