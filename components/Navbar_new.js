@@ -84,7 +84,7 @@ const Navbar = () => {
                                         <Link href="/Teaching/HS22" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">Informatics I </Link>
                                     </DropdownItem>
                                     <DropdownItem key="delete" >
-                                        <Link href="/Library" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">Libray </Link>
+                                        <Link href="/Library" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">Library </Link>
                                     </DropdownItem>
                                 </DropdownMenu>
                             </Dropdown>
