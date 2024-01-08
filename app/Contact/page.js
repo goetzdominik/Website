@@ -14,7 +14,7 @@ const Contact  = () => {
 
                     </h1>
                     <p> 
-                        If you are interested what I did in the past and want keep upo with what I am doing, follow me on linked-In!
+                        If you are interested what I did in the past and want to keep up with what I am doing, follow me on linked-In!
                     </p>
                 </div>
                 <div className =" sm:w-2/6 text_card">
@@ -23,7 +23,7 @@ const Contact  = () => {
                         </h1>
                     <p className=" ">
                         
-                        If you want to get in touch with me, this is the fastest way! Also if you encounter a bug, pleaes reoprt this to me via mail.
+                        If you want to get in touch with me, this is the fastest way! Also if you encounter a bug, please report this to me via mail.
                     </p>
                 </div>
                 <div className = "sm:w-2/6 text_card ">
@@ -31,7 +31,7 @@ const Contact  = () => {
                     <Link className = "text-blue-600 hover:underline" href="https://github.com/goetzdominik" target="_blank">Git-Hub</Link>
                     </h1>
                     <p>
-                        On Git-Hub you can fnd all the codes that I referenced in presentations and soon also the code for this hompage.
+                        On Git-Hub you can find all the codes that I referenced in presentations and soon also the code for this hompage.
                     </p>
                 </div>
             </div>

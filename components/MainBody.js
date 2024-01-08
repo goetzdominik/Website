@@ -18,7 +18,7 @@ const MainBody = () => {
                 <div className = " sm:w-2/5 text_card " >
                     <p className = "">   
 
-                        It also acts as my personal homepage, where I store posters from my presentations so they are availiable online. You can also find out more about what I am currently doing.
+                        It also acts as my personal homepage, where I store posters from my presentations so they are available online. You can also find out more about what I am currently doing.
                     </p>
                 </div>
             </div>
