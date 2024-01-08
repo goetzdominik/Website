@@ -28,7 +28,7 @@ const Cards_2 = () => {
                     <Image isZoomed src="/img/Main/ACACII.jpg" alt="ACACII" width={540 }  height={540}/>
                         <div className = "m-4">
                             <span className =" font-bold"> ACAC II </span>
-                            <span className = "block text-gray-500 dark:text-gray-400 "> Slides and usefull Documents.   </span>
+                            <span className = "block text-gray-500 dark:text-gray-400 "> Slides and useful Documents.   </span>
                         </div>
                         <div className = "badge_left">
                             <span>FS23</span>
@@ -59,7 +59,7 @@ const Cards_2 = () => {
                     <Image isZoomed src="/img/Main/bib.jpg" alt="Library" width={540 }  height={540}/>
                         <div className = "m-4">
                             <span className =" font-bold"> Library </span>
-                            <span className = "block text-gray-500 dark:text-gray-400 "> Usefull document for each lecture I have taken.</span>
+                            <span className = "block text-gray-500 dark:text-gray-400 "> Useful document for each lecture I have taken.</span>
                         </div>
                     </Link>
                    

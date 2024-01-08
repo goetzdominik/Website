@@ -31,7 +31,7 @@ const Contact  = () => {
                     <Link className = "text-blue-600 hover:underline" href="https://github.com/goetzdominik" target="_blank">Git-Hub</Link>
                     </h1>
                     <p>
-                        On Git-Hub you can find all the codes that I referenced in presentations and soon also the code for this hompage.
+                        On GitHub you can find all the codes that I referenced in presentations and soon also the code for this homepage.
                     </p>
                 </div>
             </div>

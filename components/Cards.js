@@ -12,7 +12,7 @@ const Cards = () => {
                         
                         <div className = "m-4">
                             <span className =" font-bold"> ACOC II </span>
-                            <span className = "block text-gray-500 dark:text-gray-400"> All slides and solutions for my currrent ecercise class.</span>
+                            <span className = "block text-gray-500 dark:text-gray-400"> All slides and solutions for my currrent exercise class.</span>
                         </div>
                         <div className = "badge_left">
                             <span>FS24</span>
@@ -41,7 +41,7 @@ const Cards = () => {
                     <Image isZoomed src="/img/Main/dominik.jpg" alt="About" width={540 }  height={540}/>
                         <div className = "m-4">
                             <span className =" font-bold"> About Me</span>
-                            <span className = "block text-gray-500 dark:text-gray-400 ">  More information about this webiste and the content.</span>
+                            <span className = "block text-gray-500 dark:text-gray-400 ">  More information about this website and the content.</span>
                         </div>
                     </Link>
                 </div>

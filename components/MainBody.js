@@ -12,7 +12,7 @@ const MainBody = () => {
               
                 <div className = " sm:w-3/5 text_card  " >
                     <p className = "">   This website has accompanying content for the exercise class I am currently teaching, ACOC II. It also contains all the content 
-                        from past exercise classes. Under Library you can find usefull documents to every lecutre I have taken.
+                        from past exercise classes. Under Library you can find useful documents to every lecture I have taken.
                     </p>
                 </div>
                 <div className = " sm:w-2/5 text_card " >
