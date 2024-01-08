@@ -51,7 +51,7 @@ const HS23 = () => {
                     Exercise Session
                     </h2>
                     <p className="text-gray-500 ">
-                    My practice session takes place every Monday at 10:45 in HIL B21 and will be thought in german. To get to the room, enter the HIL (entrance at the information desk), go straight and take the small staircase up. Walk along the corridor to the staircase and go down one floor. Once there, take the right door and turn left; you'll find a small staircase going down. At the end of the stairs, turn right twice, and the room is at the end of the corridor. The aim of my practice is to teach you the theory for ACOC I and familiarize you with the exam format. Series will be submitted via your Polybox.
+                    My practice session takes place every Monday at 10:45 in HIL B21 and will be tought in german. To get to the room, enter the HIL (entrance at the information desk), go straight and take the small staircase up. Walk along the corridor to the staircase and go down one floor. Once there, take the right door and turn left; you'll find a small staircase going down. At the end of the stairs, turn right twice, and the room is at the end of the corridor. The aim of my practice is to teach you the theory for ACOC I and familiarize you with the exam format. Series will be submitted via your Polybox.
 
                     </p>
                 </div>
