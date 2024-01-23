@@ -99,7 +99,7 @@ const HS22 = () => {
                                 29.09.2022
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS22/Info_I_1.md" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Woche 1</Link>
+                                    <Link href="/download/HS22/Info_I_1.md" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week1</Link>
                                 </td>
                                 <td className="px-6 py-4 ">
 
@@ -113,7 +113,7 @@ const HS22 = () => {
                                 06.10.2022
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS22/Info_I_2.md" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Woche 2</Link>
+                                    <Link href="/download/HS22/Info_I_2.md" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week2</Link>
                                 </td>
                                 <td className="px-6 py-4  ">
 
@@ -127,7 +127,7 @@ const HS22 = () => {
                                 13.10.2022
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS22/Info_I_3.md" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Woche 3</Link>
+                                    <Link href="/download/HS22/Info_I_3.md" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week3</Link>
                                 </td>
                                 <td className="px-6 py-4  ">
                                 <Link href="/download/HS22/Info_I_3_img.png" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Sandbox</Link>
@@ -141,7 +141,7 @@ const HS22 = () => {
                                 20.10.2022
                                 </td>
                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS22/Info_I_4.md" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Woche 4</Link>
+                                    <Link href="/download/HS22/Info_I_4.md" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week4</Link>
                                 </td>
                                 <td className="px-6 py-4  ">
 
@@ -156,7 +156,7 @@ const HS22 = () => {
                                 27.10.2022
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS22/Info_I_5.md" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Woche 5</Link>
+                                    <Link href="/download/HS22/Info_I_5.md" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week5</Link>
                                 </td>
                                 <td className="px-6 py-4  ">
 
@@ -170,7 +170,7 @@ const HS22 = () => {
                                 03.11.2022
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS22/Info_I_6.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Woche 6</Link>
+                                    <Link href="/download/HS22/Info_I_6.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week6</Link>
                                 </td>
                                 <td className="px-6 py-4">
 
@@ -185,7 +185,7 @@ const HS22 = () => {
                                 10.11.2022
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS22/Info_I_7.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Woche 7</Link>
+                                    <Link href="/download/HS22/Info_I_7.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week7</Link>
                                 </td>
                                 <td className="px-6 py-4">
 
@@ -199,7 +199,7 @@ const HS22 = () => {
                                 17.11.2022
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS22/Info_I_7.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Woche 8</Link>
+                                    <Link href="/download/HS22/Info_I_7.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week8</Link>
                                 </td>
                                 <td className="px-6 py-4">
 
@@ -213,7 +213,7 @@ const HS22 = () => {
                                 24.11.2022
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS22/Info_I_8.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Woche 9</Link>
+                                    <Link href="/download/HS22/Info_I_8.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week9</Link>
                                 </td>
                                 <td className="px-6 py-4">
 
@@ -227,7 +227,7 @@ const HS22 = () => {
                                 01.12.2022
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS22/Info_I_9.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Woche 10</Link>
+                                    <Link href="/download/HS22/Info_I_9.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week10</Link>
                                 </td>
                                 <td className="px-6 py-4">
 
@@ -242,7 +242,7 @@ const HS22 = () => {
                                 08.12.2022
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS22/Info_I_10.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Woche 11</Link>
+                                    <Link href="/download/HS22/Info_I_10.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week11</Link>
                                 </td>
                                 <td className="px-6 py-4">
 
@@ -256,7 +256,7 @@ const HS22 = () => {
                                 15.12.2022
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS22/Info_I_11.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Woche 12</Link>
+                                    <Link href="/download/HS22/Info_I_11.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week12</Link>
                                 </td>
                                 <td className="px-6 py-4">
 
@@ -270,7 +270,7 @@ const HS22 = () => {
                                 22.12.2022
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS22/Info_I_12.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Woche 13</Link>
+                                    <Link href="/download/HS22/Info_I_12.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week13</Link>
                                 </td>
                                 <td className="px-6 py-4">
                                 <Link href="/download/HS22/Info_Klausur.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Klausur</Link>
