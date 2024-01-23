@@ -50,7 +50,7 @@
 }
 
 .text_card_grid {
-  @apply flex flex-col sm:flex-row  bg-white p-0  pt-8 gap-8  text-primary dark:text-gray-100;
+  @apply flex flex-col md:flex-row  bg-white p-0  pt-8 gap-8  text-primary dark:text-gray-100;
 }
 .page_title {
   @apply bg-white text-4xl  text-center   p-4;

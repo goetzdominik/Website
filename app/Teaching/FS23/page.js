@@ -6,7 +6,7 @@ const FS23 = () => {
                 ACAC II
             </h1>
             <div className=" text_card_grid">
-                <div className =" sm:w-2/5 text_card ">
+                <div className =" md:w-2/5 text_card ">
                     <h2>
                     529-0012-02L Algemeine Chemie II 
                     </h2>
@@ -14,7 +14,7 @@ const FS23 = () => {
                     General Chemistry 2, Inorganic Chemistry "Lecture for Biochemistry, Chemistry, Chemical Engineering, and Interdisciplinary Natural Sciences - Biochemical-Physical Specialization.
                     </p>
                 </div>
-                <div className =" sm:w-2/5 text_card">
+                <div className =" md:w-2/5 text_card">
                     <h2>
                     Slides
                     </h2>
@@ -23,7 +23,7 @@ const FS23 = () => {
 
                     </p>
                 </div>
-                <div className =" sm:w-1/5 text_card ">
+                <div className =" md:w-1/5 text_card ">
                     <div>
                         <h2>
                             Ankis

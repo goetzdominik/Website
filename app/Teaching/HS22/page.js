@@ -7,7 +7,7 @@ const HS22 = () => {
             Informatik I 
         </h1>
         <div className=" text_card_grid">
-            <div className =" sm:w-2/5 text_card ">
+            <div className =" md:w-2/5 text_card ">
                 <h2>
                 529-0001-00L - Informatics I
                 </h2>
@@ -15,7 +15,7 @@ const HS22 = () => {
                 Informatics I Lecture for Biochemistry, Chemistry, Chemical Engineering, and Interdisciplinary Natural Sciences - Biochemical-Physical Specialization.
                 </p>
             </div>
-            <div className =" sm:w-3/5 text_card">
+            <div className =" md:w-3/5 text_card">
                 <div>
                     <h2>
                     Padlett
@@ -37,7 +37,7 @@ const HS22 = () => {
             </div>
         </div>
         <div className=" text_card_grid">
-            <div className =" sm:w-1/5 text_card grid-cols-[auto_100px] ">
+            <div className =" md:w-1/5 text_card grid-cols-[auto_100px] ">
                 <div>
                     <div>
                         <h2>
@@ -60,7 +60,7 @@ const HS22 = () => {
             </div>
             
 
-            <div className =" sm:w-4/5 text_card">
+            <div className =" md:w-4/5 text_card">
                 <h2>
                 Slides
                 </h2>

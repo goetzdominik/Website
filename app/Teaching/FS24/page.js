@@ -6,7 +6,7 @@ const FS24 = () => {
                 ACOC II
             </h1>
             <div className=" text_card_grid">
-                <div className =" sm:w-3/5 text_card ">
+                <div className =" md:w-3/5 text_card ">
                     <h2>
                     529-0012-03L Allgemeine Chemie II (OC)
                     </h2>
@@ -14,7 +14,7 @@ const FS24 = () => {
                     Slides and solutions for the exercise class, accompanying the ACOC II lecture by Prof. Chen. This lecutre is for students of the D-Chab at ETH Zürich, second semester.
                     </p>
                 </div>
-                <div className =" sm:w-2/5 text_card">
+                <div className =" md:w-2/5 text_card">
                     <h2>
                     Slides
                     </h2>
@@ -25,7 +25,7 @@ const FS24 = () => {
                 </div>
             </div>
             <div className=" text_card_grid">
-                <div className =" sm:w-1/5 text_card ">
+                <div className =" md:w-1/5 text_card ">
                     <div>
                         <h2>
                             Ankis
@@ -45,12 +45,12 @@ const FS24 = () => {
                         </Link >
                     </div>
                 </div>
-                <div className =" sm:w-4/5 text_card">
+                <div className =" md:w-4/5 text_card">
                     <h2>
                     Exercise Session
                     </h2>
                     <p className="text-gray-500 ">
-                    {/* My practice session takes place every Monday at 10:45 in HIL B21 and will be thought in german. To get to the room, enter the HIL (entrance at the information desk), go straight and take the small staircase up. Walk along the corridor to the staircase and go down one floor. Once there, take the right door and turn left; you'll find a small staircase going down. At the end of the stairs, turn right twice, and the room is at the end of the corridor. The aim of my practice is to teach you the theory for ACOC I and familiarize you with the exam format. Series will be submitted via your Polybox. */}
+                    {/* My practice session takes place every Monday at 10:45 in HIL B21 and will be thought in german. To get to the room, enter the HIL (entrance at the information desk), go straight and take the mdall staircase up. Walk along the corridor to the staircase and go down one floor. Once there, take the right door and turn left; you'll find a mdall staircase going down. At the end of the stairs, turn right twice, and the room is at the end of the corridor. The aim of my practice is to teach you the theory for ACOC I and familiarize you with the exam format. Series will be submitted via your Polybox. */}
                     To be anounced.
                     </p>
                 </div>

@@ -6,7 +6,7 @@ const HS23 = () => {
                 ACOC I 
             </h1>
             <div className=" text_card_grid">
-                <div className =" sm:w-3/5 text_card ">
+                <div className =" md:w-3/5 text_card ">
                     <h2>
                     529-0011-03L Allgemeine Chemie I (OC)
                     </h2>
@@ -14,7 +14,7 @@ const HS23 = () => {
                     Slides and solutions for the exercise class, accompanying the ACOC II lecture by Prof. Chen. This lecutre is for students of the D-Chab at ETH Zurich, second semester.
                     </p>
                 </div>
-                <div className =" sm:w-2/5 text_card">
+                <div className =" md:w-2/5 text_card">
                     <h2>
                     Slides
                     </h2>
@@ -25,7 +25,7 @@ const HS23 = () => {
                 </div>
             </div>
             <div className=" text_card_grid">
-                <div className =" sm:w-1/5 text_card ">
+                <div className =" md:w-1/5 text_card ">
                     <div>
                         <h2>
                             Ankis
@@ -46,7 +46,7 @@ const HS23 = () => {
                         </Link >
                     </div>
                 </div>
-                <div className =" sm:w-4/5 text_card">
+                <div className =" md:w-4/5 text_card">
                     <h2>
                     Exercise Session
                     </h2>
