@@ -7,7 +7,7 @@ const Library = () => {
                 Library
             </h1>
             <div className=" text_card_grid">
-                <div className =" sm:w-3/5 text_card ">
+                <div className =" md:w-3/5 text_card ">
                     <h2>
                     Disclaimer
                     </h2>
@@ -17,7 +17,7 @@ const Library = () => {
                         Missing documents will be added soon.
                     </p>
                 </div>
-                <div className =" sm:w-2/5 text_card">
+                <div className =" md:w-2/5 text_card">
                     <h2>
                     Slides
                     </h2>

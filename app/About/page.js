@@ -6,7 +6,7 @@ const About = () => {
                 About
             </h1>
             <div className=" text_card_grid">
-                <div className =" sm:w-3/5 text_card ">
+                <div className =" md:w-3/5 text_card ">
                     <h2>
                     This Home page 
                     </h2>
@@ -21,7 +21,7 @@ const About = () => {
                     If you're interested in my work or have any queries, feel free to get in touch! 
                     </p>
                 </div>
-                <div className =" sm:w-2/5 text_card">
+                <div className =" md:w-2/5 text_card">
                     <h2>
                     Me 
                     </h2>
