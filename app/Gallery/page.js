@@ -71,7 +71,7 @@ const Gallery = () => {
           {/* Column 2 */}
           <div className="gallery_card">
             <Image radius="lg"  className="image_content" placeholder='blur' src="/img/Gallery/paintball_small.jpg" alt="2" fill={true}/>
-            <div className="overlay_text">Most sucessful event I coordinated, VCS plays paintball against VMP</div>
+            <div className="overlay_text">Best event I coordinated, VCS plays paintball against VMP</div>
           </div>
           <div className="gallery_card">
             <Image radius="lg"  className="image_content" placeholder='blur' src="/img/Gallery/bib_big.jpg" alt="2" fill={true}/>
