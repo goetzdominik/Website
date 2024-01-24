@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const HS22 = () => {
     return ( 
-        <div className="p-t16 md:pt-12">   
+        <div className="">   
         <h1 className="page_title" > 
             Informatik I 
         </h1>

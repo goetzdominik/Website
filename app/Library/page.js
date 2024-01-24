@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const Library = () => {
     return ( 
-        <div className="pt-12">   
+        <div className="">   
             <h1 className="page_title" > 
                 Library
             </h1>

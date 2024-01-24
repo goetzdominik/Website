@@ -2,7 +2,7 @@ import Link from "next/link";
 import {Image} from "@nextui-org/react";
 const Presentation = () => {
     return ( 
-        <div className = "pt-12">
+        <div className = "">
             <h1 className="page_title" > 
                 Presentations 
             </h1>

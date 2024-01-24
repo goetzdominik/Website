@@ -1,7 +1,7 @@
 const About = () => {
   return (  
 
-    <div className = "pt-12">   
+    <div className = "">   
      <h1 className="page_title" > 
                 About
             </h1>

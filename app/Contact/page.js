@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 const Contact  = () => {
     return (  
-        <div className = "pt-12">
+        <div className = "">
             <h1 className="page_title" > 
                 Contact 
             </h1>

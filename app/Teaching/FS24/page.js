@@ -1,7 +1,7 @@
 import Link from "next/link";
 const FS24 = () => {
     return ( 
-        <div className="pt-12">   
+        <div className="">   
             <h1 className="page_title" > 
                 ACOC II
             </h1>

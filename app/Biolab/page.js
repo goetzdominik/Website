@@ -1,6 +1,6 @@
 const BioLab = () => {
     return ( 
-        <div className="pt-12 flex flex-wrap justify-center">   
+        <div className=" flex flex-wrap justify-center">   
             <h1 className = "bg-white dark:text-gray-100 text-4xl text-bold text-center pt-8  p-4">Student Bio Lab</h1>
         <div className =" flex flex-wrap"> 
             <div>
