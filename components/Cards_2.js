@@ -6,7 +6,7 @@ const Cards_2 = () => {
 
         <div>
             <h3 className=" page_subtitle">Past</h3>
-            <div className="mt-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 p-4 gap-8  text-primary dark:text-gray-100" >
+            <div className="mt-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4  gap-8  text-primary dark:text-gray-100" >
 
                     <Link className = "card   "  href = "/Teaching/HS23">
                         <Image  isZoomed src="/img/Main/ACOCI.jpg" alt="ACOCI" width={540 }  height={540}/>
