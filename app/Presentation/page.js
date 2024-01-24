@@ -12,8 +12,8 @@ const Presentation = () => {
             </h1>
             <div className=" flex flex-col p-4 bg-white  md:p-4 pt-8 gap-8  text-primary  lg:flex-row">
                 <div className =" lg:w-1/2  poster_card  ">
-                <Link className = "card   "  href = "/download/Presentation/Poster_1_Dominik_Gotz.pdf"  role="button" target="_blank"> 
-                        <Image src="/img/Poster_1.jpg" classnName = "rotate-90 " alt="ACOCII" fill = {true}/>
+                <Link className = "card  border-2 border-gray-50 "  href = "/download/Presentation/Poster_1_Dominik_Gotz.pdf"  role="button" target="_blank"> 
+                        <Image src="/img/Poster_1.jpg"  alt="poster" fill = {true}/>
                         
                         
                         
