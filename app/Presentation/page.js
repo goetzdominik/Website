@@ -21,7 +21,8 @@ const Presentation = () => {
                 </div>
                 <div className =" lg:w-1/2 text_card ">
                     
-                    <h2 className ="p-4 text-lg">
+                    <h2 className ="p-4 pl-0 text-lg">
+                        
                     Abstract 
                     </h2>
                     <p className="text-gray-500 ">
