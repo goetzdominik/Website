@@ -1,5 +1,5 @@
 'use client'
-import { Lora } from 'next/font/google'
+import { Roboto } from 'next/font/google'
 import './globals.css'
 import 'flowbite';
 import Footer from '@/components/Footer'
@@ -9,7 +9,7 @@ import { NextUIProvider } from '@nextui-org/react'
 import { Analytics } from '@vercel/analytics/react';
 import { SpeedInsights } from "@vercel/speed-insights/next"
 
-const merriweather = Lora({
+const merriweather = Roboto({
   weight: '400',
   subsets: ['latin']
 });

@@ -1,4 +1,4 @@
-import { Imprima } from "next/font/google";
+import { Lora } from 'next/font/google'
 import React, { useState } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
@@ -11,6 +11,12 @@ import {
     DropdownItem,
     Button
 } from "@nextui-org/react";
+
+const merriweather = Lora({
+    weight: '400',
+    subsets: ['latin']
+  });
+  
 
 const Navbar = () => {
     const router = useRouter();
@@ -25,7 +31,8 @@ const Navbar = () => {
     };
 
     return (
-        <nav className="backdrop-blur-lg  fixed flex w-full z-30 top-0 start-0 items-center justify-center   ">
+        <nav className="backdrop-blur-lg  fixed flex w-full z-30 top-0 start-0 items-center justify-center">
+            <div className={merriweather.className}>
             <div className="max-w-screen-xl flex flex-wrap items-center justify-center pt-4 p-1 lg:p-4">
                 <Link href="/" onClick={closeMenu} className="flex items-center mt-1 hover:text-gray-500 space-x-3 rtl:space-x-reverse   p-4">
                     <span className="self-center text-4xl font-semibold whitespace-nowrap dark:text-white">Dominik Götz</span>
@@ -70,7 +77,7 @@ const Navbar = () => {
                                         </svg>
                                     </Button>
                                 </DropdownTrigger>
-                                <DropdownMenu className="" aria-label="Static Actions">
+                                <DropdownMenu  className={merriweather.className} aria-label="Static Actions">
                                     <DropdownItem className=" border-b-2 " key="new">
                                         <Link href="/Teaching/FS24" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">ACOC II</Link>
                                     </DropdownItem>
@@ -106,7 +113,7 @@ const Navbar = () => {
                                         </svg>
                                     </Button>
                                 </DropdownTrigger>
-                                <DropdownMenu className="" aria-label="Static Actions">
+                                <DropdownMenu  className={merriweather.className} aria-label="Static Actions">
                                     <DropdownItem className=" " key="">
                                         <Link href="/About" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">About</Link>
                                     </DropdownItem>
@@ -124,6 +131,7 @@ const Navbar = () => {
                         </li>
                     </ul>
                 </div>
+            </div>
             </div>
         </nav>
     );

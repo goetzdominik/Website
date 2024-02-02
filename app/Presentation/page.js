@@ -3,7 +3,7 @@ import {Image} from "@nextui-org/react";
 const Presentation = () => {
     return ( 
         <div className = "">
-            <h1 className="page_title" > 
+            <h1 className="page_subtitle" > 
                 Presentations 
             </h1>
             

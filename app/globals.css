@@ -27,7 +27,7 @@
 }
 
 .card {
-  @apply bg-gray-50 dark:bg-nav_col_dark rounded-md shadow-md hover:shadow-lg  hover:text-action overflow-hidden relative;
+  @apply bg-white dark:bg-nav_col_dark rounded-md shadow-md hover:shadow-lg  hover:text-action overflow-hidden relative;
 }
 .image_card {
   @apply  rounded-lg  overflow-hidden ;

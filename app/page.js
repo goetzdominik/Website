@@ -16,7 +16,7 @@ export default function Home() {
 
 
 
-         <MainBody/>
+         {/* <MainBody/> */}
          
         <Cards/>
         <Cards_2/>

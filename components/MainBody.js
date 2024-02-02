@@ -7,7 +7,7 @@ const MainBody = () => {
             <div className="page_title" >
                 <h1>Welcome</h1>
             </div>
-            
+{/*             
             <div className = "  text_card_grid ">
               
                 <div className = " md:w-3/5 text_card  " >
@@ -21,7 +21,7 @@ const MainBody = () => {
                         It also acts as my personal homepage, where I store posters from my presentations so they are available online. You can also find out more about what I am currently doing.
                     </p>
                 </div>
-            </div>
+            </div> */}
             </div>
      );
 }
