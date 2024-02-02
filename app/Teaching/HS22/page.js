@@ -79,23 +79,23 @@ const HS22 = () => {
                         <thead className="text-xs text-primary uppercase bg-gray-200  ">
                             <tr>
                                 <th scope="col" className="px-6 py-3">
-                                    Thema
+                                    Topic
                                 </th>
                                 <th scope="col" className="px-6 py-3 hidden md:block">
-                                    Datum
+                                    Date
                                 </th>
                                 <th scope="col" className="px-6 py-3">
-                                    Folien 
+                                    Slides 
                                 </th>
                                 <th scope="col" className="px-6 py-3">
-                                    Zusätzliches  
+                                    Addiotionals  
                                 </th>
                             </tr>
                         </thead>
                         <tbody>
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
-                                Einführung
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                Introduction
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
                                 29.09.2022
@@ -108,7 +108,7 @@ const HS22 = () => {
                                 </td>
                             </tr> 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 Exercise 1
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
@@ -122,7 +122,7 @@ const HS22 = () => {
                                 </td>
                             </tr> 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 Exercise 2
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
@@ -136,7 +136,7 @@ const HS22 = () => {
                                 </td>
                             </tr> 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 Exercise 2
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
@@ -151,7 +151,7 @@ const HS22 = () => {
                             </tr> 
 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 Exercise 3
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
@@ -165,7 +165,7 @@ const HS22 = () => {
                                 </td>
                             </tr> 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 Exercise 3
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
@@ -180,7 +180,7 @@ const HS22 = () => {
                             </tr> 
 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 Exercise 3
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
@@ -194,8 +194,8 @@ const HS22 = () => {
                                 </td>
                             </tr> 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
-                                Arrays und Strings
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                Arrays and Strings
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
                                 17.11.2022
@@ -208,7 +208,7 @@ const HS22 = () => {
                                 </td>
                             </tr> 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 Exercise 4
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
@@ -222,7 +222,7 @@ const HS22 = () => {
                                 </td>
                             </tr> 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 Feedback
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
@@ -237,8 +237,8 @@ const HS22 = () => {
                             </tr> 
 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
-                                Exercise 5 und Reihen in C++
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                Exercise 5 and Series in C++
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
                                 08.12.2022
@@ -251,8 +251,8 @@ const HS22 = () => {
                                 </td>
                             </tr> 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
-                                Abgabe Ex5 und Ex7
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                Handin Ex5 and Ex7
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
                                 15.12.2022
@@ -265,7 +265,7 @@ const HS22 = () => {
                                 </td>
                             </tr> 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 Exercise 7
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
@@ -275,7 +275,7 @@ const HS22 = () => {
                                     <Link href="/download/HS22/Info_I_12.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week13</Link>
                                 </td>
                                 <td className="px-6 py-4">
-                                <Link href="/download/HS22/Info_Klausur.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Klausur</Link>
+                                <Link href="/download/HS22/Info_Klausur.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Exam</Link>
                                 </td>
                             </tr> 
                         </tbody>

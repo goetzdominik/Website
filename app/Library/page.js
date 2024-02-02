@@ -54,7 +54,7 @@ const Library = () => {
                                 </thead>
                                 <tbody>
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         ACAC I
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -62,7 +62,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         ACAC II
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -70,7 +70,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         ACOC I
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -78,7 +78,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         ACOC II
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -88,7 +88,7 @@ const Library = () => {
 
                             
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         ACPC I
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -97,7 +97,7 @@ const Library = () => {
                                     </tr> 
 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         PC I
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -107,7 +107,7 @@ const Library = () => {
                                     </tr> 
 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         Biology I
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -115,7 +115,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         Biology II
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -123,7 +123,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         Analysis A&B
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -139,7 +139,7 @@ const Library = () => {
                                     </tr> 
 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         Statistics I
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -148,7 +148,7 @@ const Library = () => {
                                     </tr> 
 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         Informatics I
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -157,7 +157,7 @@ const Library = () => {
                                     </tr> 
 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         BCB I: AC
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -166,7 +166,7 @@ const Library = () => {
                                     </tr> 
 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         Biology Practical
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -189,7 +189,7 @@ const Library = () => {
 
                     <div> 
                         {/* start of table */}
-                        <div className="relative overflow-x-auto shadow-md rounded-lg mt-8  ">
+                        <div className="relative overflow-x-auto  shadow-md rounded-lg mt-8  ">
                             <table className="w-full  text-left rtl:text-right text-gray-500 ">
                                 <thead className="text-xs text-primary uppercase bg-gray-200  ">
                                     <tr>
@@ -204,7 +204,7 @@ const Library = () => {
                                 </thead>
                                 <tbody>
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         AC I
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -212,7 +212,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         PC II
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -220,7 +220,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         Statsitcs II
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -229,7 +229,7 @@ const Library = () => {
                                     </tr> 
 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         OC I
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -237,7 +237,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         OC II
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -247,7 +247,7 @@ const Library = () => {
                                     </tr> 
 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                             Physics I&II
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -255,7 +255,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         Pharma & Tox I&II
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -271,7 +271,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         Analytical Chemistry
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -282,7 +282,7 @@ const Library = () => {
                                     </tr> 
 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         Biochemistry
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -290,7 +290,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         Systembiology
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -298,7 +298,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         BCB III: OC
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -307,7 +307,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         BCB IV: Biophysics
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -315,7 +315,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         Research Ethics
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -352,7 +352,7 @@ const Library = () => {
                                 </thead>
                                 <tbody>
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         MSB I 
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -362,7 +362,7 @@ const Library = () => {
                                     </tr> 
 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         MSB II
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -371,7 +371,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         Bioinformatics 
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -380,7 +380,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         Systemsbiology
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -390,7 +390,7 @@ const Library = () => {
                                     </tr> 
 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         NACs
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -399,7 +399,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         Proteins and Lipids 
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -408,7 +408,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         OC for BCB
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -417,7 +417,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         OC III
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -427,7 +427,7 @@ const Library = () => {
                                     </tr> 
 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         OC IV
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -436,7 +436,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         Climate Matters
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -446,7 +446,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         Space Research
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -456,7 +456,7 @@ const Library = () => {
                                     </tr> 
 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         RNA-Biology
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -466,7 +466,7 @@ const Library = () => {
                                     </tr> 
 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         Research Cycle in genomics
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -475,7 +475,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         Chemistry of Soft Materials 
                                         </th>
                                         <td className="px-6 py-4 ">
@@ -484,7 +484,7 @@ const Library = () => {
                                         </td> 
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         MSB
                                         </th>
                                         <td className="px-6 py-4 ">

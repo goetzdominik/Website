@@ -68,7 +68,7 @@ const FS23 = () => {
                         </thead>
                         <tbody>
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 Hilfsmittel
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
@@ -82,7 +82,7 @@ const FS23 = () => {
                                 </td> 
                             </tr> 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 Reaktionen
                                 </th>
                                 <td className="px-6 py-4 hidden md:block">
@@ -96,7 +96,7 @@ const FS23 = () => {
                                 </td>
                             </tr> 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 Einführung
                                 </th>
                                 <td className="px-6 py-4 hidden md:block">
@@ -110,7 +110,7 @@ const FS23 = () => {
                                 </td>
                             </tr>  
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 VSEPR
                                 </th>
                                 <td className="px-6 py-4 hidden md:block">
@@ -124,7 +124,7 @@ const FS23 = () => {
                                 </td>
                             </tr>  
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 MO und Kugelpackung
                                 </th>
                                 <td className="px-6 py-4 hidden md:block">
@@ -138,7 +138,7 @@ const FS23 = () => {
                                 </td>
                             </tr>  
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 Haber-Born
                                 </th>
                                 <td className="px-6 py-4 hidden md:block">
@@ -152,7 +152,7 @@ const FS23 = () => {
                                 </td>
                             </tr>  
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 Hess'scher Zyklus
                                 </th>
                                 <td className="px-6 py-4 hidden md:block">
@@ -166,7 +166,7 @@ const FS23 = () => {
                                 </td>
                             </tr>  
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 Prüfungsaufgabe
                                 </th>
                                 <td className="px-6 py-4 hidden md:block">
@@ -180,7 +180,7 @@ const FS23 = () => {
                                 </td>
                             </tr>  
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 Prüfungsaufgabe und  Recall Symmetrie
                                 </th>
                                 <td className="px-6 py-4 hidden md:block">
@@ -194,7 +194,7 @@ const FS23 = () => {
                                 </td>
                             </tr>  
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 Prüfungsaufgabe, Recall MO
                                 </th>
                                 <td className="px-6 py-4 hidden md:block">
@@ -208,7 +208,7 @@ const FS23 = () => {
                                 </td>
                             </tr> 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 Klausur 2020 Sommer
                                 </th>
                                 <td className="px-6 py-4 hidden md:block">

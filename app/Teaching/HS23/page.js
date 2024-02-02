@@ -80,7 +80,7 @@ const HS23 = () => {
         </thead>
         <tbody>
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                 Organisation und Nomenklatur I
                 </th>
                 <td className="px-6 py-4 hidden lg:block ">
@@ -94,7 +94,7 @@ const HS23 = () => {
                 </td>   
             </tr> 
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                 Nomenklatur II und Stereochemie I
                 </th>
                 <td className="px-6 py-4 hidden lg:block">
@@ -108,7 +108,7 @@ const HS23 = () => {
                 </td>
             </tr> 
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                 Nomenklatur III und Lewis-Strukturen I
                 </th>
                 <td className="px-6 py-4 hidden lg:block">
@@ -122,7 +122,7 @@ const HS23 = () => {
                 </td>
             </tr> 
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                 Nomenklatur IV und Chiralität I
                 </th>
                 <td className="px-6 py-4 hidden lg:block">
@@ -136,7 +136,7 @@ const HS23 = () => {
                 </td>
             </tr> 
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                 Chiralität II und Fischer I
                 </th>
                 <td className="px-6 py-4 hidden lg:block">
@@ -150,7 +150,7 @@ const HS23 = () => {
                 </td>
             </tr> 
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                 Symmetrieelemente
                 </th>
                 <td className="px-6 py-4 hidden lg:block">
@@ -164,7 +164,7 @@ const HS23 = () => {
                 </td>
             </tr> 
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                 Molekülorbitale
                 </th>
                 <td className="px-6 py-4 hidden lg:block">
@@ -178,7 +178,7 @@ const HS23 = () => {
                 </td>
             </tr> 
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                 Aromaten
                 </th>
                 <td className="px-6 py-4 hidden lg:block">
@@ -192,7 +192,7 @@ const HS23 = () => {
                 </td>
             </tr> 
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                 Thermochemie
                 </th>
                 <td className="px-6 py-4 hidden lg:block">
@@ -206,7 +206,7 @@ const HS23 = () => {
                 </td>
             </tr> 
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                 Konformationsanalyse I
                 </th>
                 <td className="px-6 py-4 hidden lg:block">
@@ -220,7 +220,7 @@ const HS23 = () => {
                 </td>
             </tr> 
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                 Konformationsanalyse II
                 </th>
                 <td className="px-6 py-4 hidden lg:block">
@@ -234,7 +234,7 @@ const HS23 = () => {
                 </td>
             </tr>
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                 Thermodynamik und Kinetik
                 </th>
                 <td className="px-6 py-4 hidden lg:block">
@@ -248,7 +248,7 @@ const HS23 = () => {
                 </td>
             </tr>
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                 Prüfungsvorbereitung
                 </th>
                 <td className="px-6 py-4 hidden lg:block">
@@ -262,7 +262,7 @@ const HS23 = () => {
                 </td>
             </tr>
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                 Kahoot
                 </th>
                 <td className="px-6 py-4  hidden lg:block">

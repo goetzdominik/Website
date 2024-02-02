@@ -77,7 +77,7 @@ const FS24 = () => {
                         </thead>
                         <tbody>
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 Introduction
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
