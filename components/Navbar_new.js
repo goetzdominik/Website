@@ -65,12 +65,13 @@ const Navbar = () => {
                                 
                                 Home</Link>
                         </li>
-                        <li className="pt-2 "> 
+                        <li className=""> 
                             <Dropdown className="bg-white rounded-lg border border:gray-50 p-0 shadow-md">
                                 <DropdownTrigger>
                                     <Button
                                         variant="bordered"
-                                        className="hover:text-gray-500 "
+                                        className="hover:text-gray-500 p-2  rounded-lg pb-0"
+                                        radius ="lg"
                                     >
                                         Teaching
                                         <svg className="w-2.5 h-2.5 ms-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
@@ -105,8 +106,9 @@ const Navbar = () => {
                             <Dropdown className="bg-white rounded-lg border border:gray-50 p-0 shadow-md">
                                 <DropdownTrigger>
                                     <Button
-                                        variant="bordered"
-                                        className="hover:text-gray-500 pt-2"
+                                        variant=""
+                                        className="hover:text-gray-500 rounded-lg p-2 pb-0 pt-2"
+                                        radius ="lg"
                                     >
                                         Explore
                                         <svg className="w-2.5 h-2.5 ms-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
@@ -119,7 +121,7 @@ const Navbar = () => {
                                         <Link href="/About" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">About</Link>
                                     </DropdownItem>
                                     <DropdownItem key="edit">
-                                        <Link href="/Biolab" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">Bio Lab</Link>
+                                        <Link href="/Now" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">Now</Link>
                                     </DropdownItem>
                                     <DropdownItem key="edit">
                                         <Link href="/Gallery" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">Gallery</Link>
