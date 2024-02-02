@@ -25,7 +25,7 @@ const HS23 = () => {
                 </div>
             </div>
             <div className=" text_card_grid">
-                <div className =" md:w-1/5 text_card ">
+                <div className =" md:w-1/3 text_card ">
                     <div>
                         <h2>
                             Ankis
@@ -46,12 +46,12 @@ const HS23 = () => {
                         </Link >
                     </div>
                 </div>
-                <div className =" md:w-4/5 text_card">
+                <div className =" md:w-2/3 text_card">
                     <h2>
                     Exercise Session
                     </h2>
                     <p className="text-gray-500 ">
-                    My practice session takes place every Monday at 10:45 in HIL B21 and will be tought in german. To get to the room, enter the HIL (entrance at the information desk), go straight and take the small staircase up. Walk along the corridor to the staircase and go down one floor. Once there, take the right door and turn left; you'll find a small staircase going down. At the end of the stairs, turn right twice, and the room is at the end of the corridor. The aim of my practice is to teach you the theory for ACOC I and familiarize you with the exam format. Series will be submitted via your Polybox.
+                    The session takes place every Monday at 10:45 in HIL B21 and will be tought in german. To get to the room, enter the HIL (entrance at the information desk), go straight and take the small stairs (next to the elevator) up. Walk along the corridor to the staircase and go down one floor. Once there, take the right door and turn left; you'll find a small staircase going down. At the end of the stairs, turn right twice, and the room is at the end of the corridor. The aim of my practice is to teach you the theory for ACOC I and familiarize you with the exam format. Series will be submitted via your Polybox.
 
                     </p>
                 </div>

@@ -16,28 +16,19 @@ const HS22 = () => {
                 </p>
             </div>
             <div className =" md:w-3/5 text_card">
-                <div>
-                    <h2>
-                    Padlett
-                    </h2>
-                </div>
-                <div>
-                    <p className="text-gray-500 ">
-                    Padlet with important information for organizing the tutorial session. Additionally, there is a link to a private repository containing many useful documents for the first year at the Department D-CHAB.
+               
+                <h2>
+                Slides
+                </h2>
+                <p className="text-gray-500 ">
+                Below you will find my notes for the tutorial session with tips for the series. These are in no way a substitute for the scripts or the lecture and should only be used as additional aids.
 
-                    </p>
-                </div>
-                <div>
-                    <Link href="https://padlet.com/dogoetz/informatik-1-padlet-o6g8187ziqq88diz" className = " pt-2 p-4  text-primary hover:text-gray-500 dark:hover:text-blue-500  rounded-lg " role="button" target="_blank">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-6 h-6">
-                            <path fillRule="evenodd" d="M4.848 2.771A49.144 49.144 0 0 1 12 2.25c2.43 0 4.817.178 7.152.52 1.978.292 3.348 2.024 3.348 3.97v6.02c0 1.946-1.37 3.678-3.348 3.97-1.94.284-3.916.455-5.922.505a.39.39 0 0 0-.266.112L8.78 21.53A.75.75 0 0 1 7.5 21v-3.955a48.842 48.842 0 0 1-2.652-.316c-1.978-.29-3.348-2.024-3.348-3.97V6.741c0-1.946 1.37-3.68 3.348-3.97Z" clipRule="evenodd" />
-                      </svg>
-                    </Link >
-                </div>
+                </p>
             </div>
         </div>
         <div className=" text_card_grid">
-            <div className =" md:w-1/5 text_card grid-cols-[auto_100px] ">
+            <div className =" md:w-1/3 text_card grid-cols-[auto_100px] ">
+                
                 <div>
                     <div>
                         <h2>
@@ -60,14 +51,25 @@ const HS22 = () => {
             </div>
             
 
-            <div className =" md:w-4/5 text_card">
-                <h2>
-                Slides
-                </h2>
-                <p className="text-gray-500 ">
-                Below you will find my notes for the tutorial session with tips for the series. These are in no way a substitute for the scripts or the lecture and should only be used as additional aids.
+            <div className =" md:w-2/3 text_card">
+            <div>
+                    <h2>
+                    Padlett
+                    </h2>
+                </div>
+                <div>
+                    <p className="text-gray-500 ">
+                    Padlet with important information for organizing the tutorial session. Additionally, there is a link to a private repository containing many useful documents for the first year at the Department D-CHAB.
 
-                </p>
+                    </p>
+                </div>
+                <div>
+                    <Link href="https://padlet.com/dogoetz/informatik-1-padlet-o6g8187ziqq88diz" className = " pt-2 p-4  text-primary hover:text-gray-500 dark:hover:text-blue-500  rounded-lg " role="button" target="_blank">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-6 h-6">
+                            <path fillRule="evenodd" d="M4.848 2.771A49.144 49.144 0 0 1 12 2.25c2.43 0 4.817.178 7.152.52 1.978.292 3.348 2.024 3.348 3.97v6.02c0 1.946-1.37 3.678-3.348 3.97-1.94.284-3.916.455-5.922.505a.39.39 0 0 0-.266.112L8.78 21.53A.75.75 0 0 1 7.5 21v-3.955a48.842 48.842 0 0 1-2.652-.316c-1.978-.29-3.348-2.024-3.348-3.97V6.741c0-1.946 1.37-3.68 3.348-3.97Z" clipRule="evenodd" />
+                      </svg>
+                    </Link >
+                </div>
             </div>
         </div>
         <div> 
