@@ -13,7 +13,7 @@ const Cards_2 = () => {
                         
                         <div className = "m-4">
                             <span className =" font-bold"> ACOC I </span>
-                            <span className = "block text-gray-500 dark:text-gray-400"> All slides and solutions.</span>
+                            <span className = "block text-secondary dark:text-gray-400"> All slides and solutions.</span>
                         </div>
                         <div className = "badge_left">
                             <span>HS23</span>
@@ -28,7 +28,7 @@ const Cards_2 = () => {
                     <Image isZoomed src="/img/Main/ACACII.jpg" alt="ACACII" fallbackSrc = "/img/Placeholder/filler_2.png"  fill={true}/>
                         <div className = "m-4">
                             <span className =" font-bold"> ACAC II </span>
-                            <span className = "block text-gray-500 dark:text-gray-400 "> Slides and useful Documents.   </span>
+                            <span className = "block text-secondary dark:text-gray-400 "> Slides and useful Documents.   </span>
                         </div>
                         <div className = "badge_left">
                             <span>FS23</span>
@@ -43,7 +43,7 @@ const Cards_2 = () => {
                     <Image isZoomed src="/img/Main/info.jpg" alt="InforamticsI" fallbackSrc = "/img/Placeholder/filler_2.png"  fill={true}/>
                         <div className = "m-4">
                             <span className =" font-bold"> Informatics I  </span>
-                            <span className = "block text-gray-500 dark:text-gray-400 "> Slides and Ankis for the lecture.</span>
+                            <span className = "block text-secondary dark:text-gray-400 "> Slides and Ankis for the lecture.</span>
                         </div>
                         <div className = "badge_left">
                             <span>HS22</span>
@@ -59,7 +59,7 @@ const Cards_2 = () => {
                     <Image isZoomed src="/img/Main/bib.jpg" alt="Library" fallbackSrc = "/img/Placeholder/filler_2.png"  fill={true}/>
                         <div className = "m-4">
                             <span className =" font-bold"> Library </span>
-                            <span className = "block text-gray-500 dark:text-gray-400 "> Useful document for each lecture I have taken.</span>
+                            <span className = "block text-secondary dark:text-gray-400 "> Useful document for each lecture I have taken.</span>
                         </div>
                     </Link>
                    

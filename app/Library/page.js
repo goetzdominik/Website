@@ -40,7 +40,7 @@ const Library = () => {
                     <div> 
                         {/* start of table */}
                         <div className="relative overflow-x-auto shadow-md rounded-lg mt-8  ">
-                            <table className="w-full  text-left rtl:text-right text-gray-500 ">
+                            <table className="w-full  text-left rtl:text-right text-secondary ">
                                 <thead className="text-xs text-primary uppercase bg-gray-200  ">
                                     <tr>
                                         <th scope="col" className="px-6 py-3">
@@ -190,7 +190,7 @@ const Library = () => {
                     <div> 
                         {/* start of table */}
                         <div className="relative overflow-x-auto  shadow-md rounded-lg mt-8  ">
-                            <table className="w-full  text-left rtl:text-right text-gray-500 ">
+                            <table className="w-full  text-left rtl:text-right text-secondary ">
                                 <thead className="text-xs text-primary uppercase bg-gray-200  ">
                                     <tr>
                                         <th scope="col" className="px-6 py-3">
@@ -338,7 +338,7 @@ const Library = () => {
                     <div> 
                         {/* start of table */}
                         <div className="relative overflow-x-auto shadow-md rounded-lg mt-8  ">
-                            <table className="w-full  text-left rtl:text-right text-gray-500 ">
+                            <table className="w-full  text-left rtl:text-right text-secondary ">
                                 <thead className="text-xs text-primary uppercase bg-gray-200  ">
                                     <tr>
                                         <th scope="col" className="px-6 py-3">

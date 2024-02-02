@@ -48,11 +48,11 @@
   @apply absolute right-0 bottom-0  p-4  text-primary hover:text-gray-500 dark:hover:text-blue-500  rounded-lg 
 }
 .badge_right {
-  @apply bg-gray-300 z-20 text-gray-500 text-sm  lg:text-xxs uppercase font-bold rounded-full p-2 mt-2 mr-2 absolute  top-0 right-0;
+  @apply bg-gray-300 z-20 text-secondary text-sm  lg:text-xxs uppercase font-bold rounded-full p-2 mt-2 mr-2 absolute  top-0 right-0;
 }
 
 .badge_left {
-  @apply bg-gray-300 z-20 text-gray-500 text-sm lg:text-xxs uppercase font-bold rounded-full p-2 mt-2 ml-2 absolute top-0;
+  @apply bg-gray-300 z-20 text-secondary text-sm lg:text-xxs uppercase font-bold rounded-full p-2 mt-2 ml-2 absolute top-0;
 }
 
 .text_card_grid {

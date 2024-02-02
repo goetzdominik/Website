@@ -15,7 +15,7 @@ module.exports = {
       colors:{
         primary: '#111827',
         border_col: '#111827',
-        secondary: '#f9fafb',
+        secondary: '#6b7280',
         nav_col: '#374151',
         nav_col_dark: '#1f2937',
         action: ' #6b7280 '   // #23A9F1 blau active
