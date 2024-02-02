@@ -26,7 +26,7 @@ const Nav_comps = () => {
                         </svg>
                     </Button>
                 </DropdownTrigger>
-                <DropdownMenu className="font-body" aria-label="Static Actions">
+                <DropdownMenu className="" aria-label="Static Actions">
                     <DropdownItem className =" border-b-2 "key="new">
                     <Link href="/Teaching/FS24" className="block hover:bg-gray-300 p-1 rounded-lg  ">ACOC II</Link>
 
@@ -67,7 +67,7 @@ const Nav_comps = () => {
                         </svg>
                     </Button>
                 </DropdownTrigger>
-                <DropdownMenu className="font-body" aria-label="Static Actions">
+                <DropdownMenu className="" aria-label="Static Actions">
                     <DropdownItem className =" "key="">
                     <Link href="/About" className="block hover:bg-gray-300 p-1 rounded-lg  ">About</Link>
 
