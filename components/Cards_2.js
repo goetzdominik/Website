@@ -5,7 +5,7 @@ const Cards_2 = () => {
     return (  
 
         <div>
-            <h3 className=" page_subtitle">Personal</h3>
+            <h3 className=" page_title mt-6 ">Personal</h3>
             <div className="mt-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4  gap-8  text-primary dark:text-gray-100" >
 
             <Link className = "card  "   href = "/Library">

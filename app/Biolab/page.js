@@ -1,7 +1,7 @@
 const BioLab = () => {
     return ( 
         <div className=" flex flex-wrap justify-center">   
-            <h1 className = "bg-white dark:text-gray-100 text-4xl text-bold text-center pt-8  p-4">Student Bio Lab</h1>
+            <h1 className = "page_title">Student Bio Lab</h1>
         <div className =" flex flex-wrap"> 
             <div>
             <svg className="lg:w-32 lg:h-32  w-16 h-16 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 18">
