@@ -20,9 +20,6 @@ module.exports = {
         nav_col_dark: '#1f2937',
         action: ' #6b7280 '   // #23A9F1 blau active
        },
-      fontFamily:{
-        body: ['Arial']
-      },
       fontSize:{
         xxs: ['0.70rem', { lineHeight: '0.75' }],
 

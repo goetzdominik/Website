@@ -1,5 +1,5 @@
 'use client'
-import { Aleo } from 'next/font/google'
+import { Lora } from 'next/font/google'
 import './globals.css'
 import 'flowbite';
 import Footer from '@/components/Footer'
@@ -9,7 +9,10 @@ import { NextUIProvider } from '@nextui-org/react'
 import { Analytics } from '@vercel/analytics/react';
 import { SpeedInsights } from "@vercel/speed-insights/next"
 
-const aleo = Aleo({ subsets: ['latin'] })
+const merriweather = Lora({
+  weight: '400',
+  subsets: ['latin']
+});
 
 
 
@@ -26,7 +29,7 @@ export default function RootLayout({ children }) {
       <title>Dominik Götz - ETH</title>
       </head>
       
-      <body className={aleo.className}>
+      <body className={merriweather.className}>
       <NextUIProvider>
       <div className = "min-h-screen ">
           <div className=' ' >
