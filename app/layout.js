@@ -39,8 +39,8 @@ export default function RootLayout({ children }) {
       <NextUIProvider>
       <div className = "min-h-screen relative text-primary ">
           <div className=' ' >
-          {/* <Navbar/> */}
-          <Navbar_new/>
+          <Navbar/>
+          {/* <Navbar_new/> */}
 
           <div className="flexflex-col items-center justify-between pb-16 pl-6 pr-6 pt-24  sm:pl-12 md:pl-24 lg:pl-36 sm:pr-12 md:pr-24 lg:pr-36 sm:pb-6 md:pb-12 sm:pt-12 md:pt-24">
           {children}
