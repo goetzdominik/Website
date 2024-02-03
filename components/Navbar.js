@@ -77,19 +77,19 @@ const Navbar = () => {
                                     </Button>
                                 </DropdownTrigger>
                                 <DropdownMenu  className={lora.className} aria-label="Static Actions">
-                                    <DropdownItem className=" border-b-2 " key="new">
+                                    <DropdownItem className=" border-b-2 " key="FS24">
                                         <Link href="/Teaching/FS24" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">ACOC II</Link>
                                     </DropdownItem>
-                                    <DropdownItem key="copy">
+                                    <DropdownItem key="HS23">
                                         <Link href="/Teaching/HS23" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">ACOC I</Link>
                                     </DropdownItem>
-                                    <DropdownItem key="edit">
+                                    <DropdownItem key="FS23">
                                         <Link href="/Teaching/FS23" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">ACAC II</Link>
                                     </DropdownItem>
-                                    <DropdownItem className=" border-b-2 " key="delete" >
+                                    <DropdownItem className=" border-b-2 " key="HS22" >
                                         <Link href="/Teaching/HS22" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">Informatics I </Link>
                                     </DropdownItem>
-                                    <DropdownItem key="delete" >
+                                    <DropdownItem key="library" >
                                         <Link href="/Library" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">Library </Link>
                                     </DropdownItem>
                                 </DropdownMenu>
@@ -114,16 +114,17 @@ const Navbar = () => {
                                     </Button>
                                 </DropdownTrigger>
                                 <DropdownMenu className={lora.className} aria-label="Static Actions">
-                                    <DropdownItem className=" " key="">
-                                        <Link href="/About" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">About</Link>
-                                    </DropdownItem>
-                                    <DropdownItem key="edit">
+                                   
+                                    <DropdownItem key="now">
                                         <Link href="/Now" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">Now</Link>
                                     </DropdownItem>
-                                    <DropdownItem key="edit">
+                                    <DropdownItem className=" " key="about">
+                                        <Link href="/About" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">About</Link>
+                                    </DropdownItem>
+                                    <DropdownItem key="gallary">
                                         <Link href="/Gallery" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">Gallery</Link>
                                     </DropdownItem>
-                                    <DropdownItem key="copy">
+                                    <DropdownItem key="contact">
                                         <Link href="/Contact" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">Contact</Link>
                                     </DropdownItem>
                                 </DropdownMenu>
