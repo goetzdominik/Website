@@ -15,20 +15,7 @@ const Now = () => {
         </div>
   
         {/* Repeat for other events as needed */}
-        <div className="flex flex-col items-center pt-4">
-          <h1 className="text-3xl font-bold pt-2">Prüfungsphase</h1>
-          <p className="py-2">03.02.2024</p>
-          <div className="max-w-[600px]  px-4">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus et, quam aut facere deleniti optio delectus eius aspernatur distinctio repellat mollitia ducimus sed provident corrupti, neque architecto amet sapiente. Veritatis.</p>
-          </div>
-        </div>
-        <div className="flex flex-col items-center pt-4">
-          <h1 className="text-3xl font-bold pt-2">Prüfungsphase</h1>
-          <p className="py-2">03.02.2024</p>
-          <div className="max-w-[600px]  px-4">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus et, quam aut facere deleniti optio delectus eius aspernatur distinctio repellat mollitia ducimus sed provident corrupti, neque architecto amet sapiente. Veritatis.</p>
-          </div>
-        </div>
+       
       </div>
     );
   }
