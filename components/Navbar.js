@@ -33,7 +33,7 @@ const Navbar = () => {
     };
 
     return (
-        <nav className="backdrop-blur-lg    fixed flex w-full z-30 top-0 start-0 items-center justify-center">
+        <nav className="backdrop-blur-lg    text-primary fixed flex w-full z-30 top-0 start-0 items-center justify-center">
             <div className={lora.className}>
             <div className="   flex flex-wrap items-center justify-center pt-4 p-1 lg:p-4">
                 <Link href="/" onClick={closeMenu} className="flex items-center mt-1 hover:text-gray-500 space-x-3 rtl:space-x-reverse   p-4">
@@ -45,7 +45,7 @@ const Navbar = () => {
                     onClick={handleMenuToggle}
                     className='lg:hidden '
                     aria-controls="navbar-sticky"
-                    radius="lg"
+                    radius="full"
                     aria-expanded={isMenuOpen}>
 
                         <Burger/>
@@ -58,7 +58,7 @@ const Navbar = () => {
                     >
                     <ul className="flex flex-col   lg:flex-row items-center lg:p-0 font-medium lg:space-x-8 rtl:space-x-reverse dark:bg-gray-800 lg:dark:bg-gray-900 dark:border-gray-700">
                         <li className='pt-2'>
-                            <Link href="/" onClick={closeMenu} className="block py-1 px-3 text-primary   hover:text-gray-500 rounded  lg:hover:bg-transparent lg:p-0 ">
+                            <Link href="/" onClick={closeMenu} className="block py-1 px-3   hover:text-gray-500 rounded  lg:hover:bg-transparent lg:p-0 ">
                                 
                                 Home</Link>
                         </li>
