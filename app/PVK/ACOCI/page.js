@@ -24,7 +24,7 @@ const HS23 = () => {
     return ( 
         <div className="">   
             <h1 className="page_title" > 
-                ACOC I 
+                PVK: ACOC I 
             </h1>
             <div className=" text_card_grid">
                 <div className =" md:w-3/5 text_card ">
@@ -69,10 +69,10 @@ const HS23 = () => {
                 </div>
                 <div className =" md:w-2/3 text_card">
                     <h2>
-                    Exercise Session
+                    PVK session
                     </h2>
                     <p className="text-gray-500 ">
-                    The session takes place every Monday at 10:45 in HIL B21 and will be tought in german. To get to the room, enter the HIL (entrance at the information desk), go straight and take the small stairs (next to the elevator) up. Walk along the corridor to the staircase and go down one floor. Once there, take the right door and turn left; you'll find a small staircase going down. At the end of the stairs, turn right twice, and the room is at the end of the corridor. The aim of my practice is to teach you the theory for ACOC I and familiarize you with the exam format. Series will be submitted via your Polybox.
+                        Will be anounced.
 
                     </p>
                 </div>
@@ -91,7 +91,7 @@ const HS23 = () => {
                  {/* Correct Button usage for form submission */}
                  <button 
                      type="" // Ensure the button submits the form
-                     className="bg-gray-200 p-2 px-4 mt-4 z-10 rounded-lg"
+                     className="bg-gray-200 p-2 px-4 mt-4  rounded-lg"
                      onClick={handleSubmit}
                  >
                      Submit
