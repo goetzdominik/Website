@@ -12,7 +12,7 @@ const Cards_2 = () => {
                     <Image isZoomed src="/img/Main/bib.jpg" alt="Library" fallbackSrc = "/img/Placeholder/filler_2.png"  fill={true}/>
                         <div className = "m-4">
                             <span className =" font-bold"> Library </span>
-                            <span className = "block text-secondary dark:text-gray-400 "> Useful document for each lecture I have taken.</span>
+                            <span className = "block text-secondary dark:text-gray-400 "> Useful documents for all lectures I have taken.</span>
                         </div>
                     </Link>
             <Link className = "card  "   href = "/Presentation">
@@ -27,7 +27,7 @@ const Cards_2 = () => {
                     <Image isZoomed src="/img/Main/dominik.jpg" fallbackSrc = "/img/Placeholder/filler_2.png" alt="About" fill={true}/>
                         <div className = "m-4">
                             <span className =" font-bold"> About</span>
-                            <span className = "block text-secondary dark:text-gray-400 ">  More information about this website and the content.</span>
+                            <span className = "block text-secondary dark:text-gray-400 ">  More information about this website, the content and me.</span>
                         </div>
                     </Link>
                     <Link className = "card  "  href ="/Contact">
