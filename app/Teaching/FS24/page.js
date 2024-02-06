@@ -11,32 +11,21 @@ const FS24 = () => {
                     529-0012-03L Allgemeine Chemie II (OC)
                     </h2>
                     <p className="text-gray-500">
-                    Slides and solutions for the exercise class, accompanying the ACOC II lecture by Prof. Chen. This lecutre is for students of the D-Chab at ETH Zürich, second semester.
+                    Slides and solutions for the exercise session, accompanying the ACOC II lecture by Prof. Chen. This lecutre is for students of the D-Chab at ETH Zürich, second semester. Students are introduced to reactions and their mechanism, aswell as their selectivity.
                     </p>
                 </div>
-                <div className =" md:w-2/5 text_card">
-                    <h2>
-                    Slides
-                    </h2>
-                    <p className="text-gray-500 ">
-                    Below you will find my notes for the tutorial session with tips for the series. These are in no way a substitute for the scripts or the lecture and should only be used as additional aids.
-
-                    </p>
-                </div>
-            </div>
-            <div className=" text_card_grid">
-                <div className =" md:w-1/5 text_card_icon ">
+                <div className =" md:w-2/5 text_card_icon ">
                     <div>
                         <h2>
                             Ankis
                         </h2>
-                        </div>
+                    </div>
                         <div>
                         <p className="text-gray-500">
                         Here you can find Anki flashcards.
                             Created by Thea Ortner, revised by Lilly Malornry, with key concepts from ACOC II.
                         </p>
-                        </div>
+                    </div>
                     <div>
                         <Link href="/download/HS23/ACOC_I_Anki.apkg" className = " icon_text_card " role="button" target="_blank">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-6 h-6">
@@ -45,13 +34,26 @@ const FS24 = () => {
                         </Link >
                     </div>
                 </div>
-                <div className =" md:w-4/5 text_card">
+            </div>
+            <div className=" text_card_grid">
+                
+                <div className =" md:w-2/5 text_card">
                     <h2>
-                    Exercise Session
+                    Slides
                     </h2>
                     <p className="text-gray-500 ">
-                    {/* My practice session takes place every Monday at 10:45 in HIL B21 and will be thought in german. To get to the room, enter the HIL (entrance at the information desk), go straight and take the mdall staircase up. Walk along the corridor to the staircase and go down one floor. Once there, take the right door and turn left; you'll find a mdall staircase going down. At the end of the stairs, turn right twice, and the room is at the end of the corridor. The aim of my practice is to teach you the theory for ACOC I and familiarize you with the exam format. Series will be submitted via your Polybox. */}
-                    To be anounced.
+                    Below you will find my notes for the exercise session with tips for the series. These are in no way a substitute for the scripts or the lecture and should only be used as additional aids.
+
+                    </p>
+                </div>
+                <div className =" md:w-3/5 text_card">
+                    <h2>
+                    Exercise Session: Focus Group
+                    </h2>
+                    <p className="text-gray-500 ">
+                    My practice session takes place every Friday at 11:45 in HCI E8 and will be thought in german.
+                    It also a focus group, where students enroll if they think they need special support in orgnic chemistry. We will focus on understand the mechanism rather then gaming the exam. Series will be submitted via your Polybox.
+                    
                     </p>
                 </div>
             </div>
@@ -62,10 +64,10 @@ const FS24 = () => {
                         <thead className="text-xs text-primary uppercase bg-gray-200  ">
                             <tr>
                                 <th scope="col" className="px-6 py-3">
-                                    Thema
+                                    Topic
                                 </th>
                                 <th scope="col" className="px-6 py-3 hidden md:block">
-                                    Datum
+                                    Date
                                 </th>
                                 <th scope="col" className="px-6 py-3">
                                     Slides
@@ -81,7 +83,7 @@ const FS24 = () => {
                                 Introduction
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
-                                xx.02.24
+                                01.03.2024
                                 </td>
                                 <td className="px-6 py-4 ">
                                     {/* <Link href="/download/FS23/Zusammenfassung_ACACII.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Zusammenfassung</Link> */}
