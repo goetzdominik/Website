@@ -51,8 +51,8 @@ const FS24 = () => {
                     Exercise Session: Focus Group
                     </h2>
                     <p className="text-gray-500 ">
-                    My practice session takes place every Friday at 11:45 in HCI E8 and will be thought in german.
-                    It is also a focus group, where students enroll if they think they need special support in organic chemistry. We will focus on understanding the mechanism rather then gaming the exam. Series will be submitted via your Polybox.
+                    My practice session takes place every Wednesday at 15:45 in HCI J8 and will be thought in German.
+                    It is also a focus group, where students enroll if they think they need special support in organic chemistry. We will focus on understanding the mechanisms rather then gaming the exam. Series will be submitted via your Polybox.
                     
                     </p>
                 </div>
