@@ -83,7 +83,7 @@ const FS24 = () => {
                                 Introduction
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
-                                01.03.2024
+                                28.02.2024
                                 </td>
                                 <td className="px-6 py-4 ">
                                     {/* <Link href="/download/FS23/Zusammenfassung_ACACII.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Zusammenfassung</Link> */}
