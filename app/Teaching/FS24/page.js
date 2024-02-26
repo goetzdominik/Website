@@ -86,10 +86,10 @@ const FS24 = () => {
                                 28.02.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    {/* <Link href="/download/FS23/Zusammenfassung_ACACII.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Zusammenfassung</Link> */}
+                                    <Link href="/download/FS24/ACOC_II_U1.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 1</Link>
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    {/* <Link href="/download/FS23/Periodensystem.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">PSE</Link> */}
+                                    <Link href="/download/FS24/Handouts.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Handouts</Link>
                                 </td> 
                             </tr> 
                         </tbody>
