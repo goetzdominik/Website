@@ -92,6 +92,20 @@ const FS24 = () => {
                                     <Link href="/download/FS24/Handouts.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Handouts</Link>
                                 </td> 
                             </tr> 
+                            <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                Radical Stability 
+                                </th>
+                                <td className="px-6 py-4 hidden md:block ">
+                                06.03.2024
+                                </td>
+                                <td className="px-6 py-4 ">
+                                    <Link href="" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">TBC</Link>
+                                </td>
+                                <td className="px-6 py-4 ">
+                                    <Link href="/download/FS24/ACOC II LÖSUNG 2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 2</Link>
+                                </td> 
+                            </tr> 
                         </tbody>
                     </table>
                 </div>
