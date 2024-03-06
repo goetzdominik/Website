@@ -73,6 +73,9 @@ const FS24 = () => {
                                     Slides
                                 </th>
                                 <th scope="col" className="px-6 py-3">
+                                    Menti
+                                </th>
+                                <th scope="col" className="px-6 py-3">
                                     Solutions
                                 </th>
                             </tr>
@@ -88,6 +91,9 @@ const FS24 = () => {
                                 <td className="px-6 py-4 ">
                                     <Link href="/download/FS24/ACOC_II_U1.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 1</Link>
                                 </td>
+                                <td>
+
+                                </td>
                                 <td className="px-6 py-4 ">
                                     <Link href="/download/FS24/Handouts.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Handouts</Link>
                                 </td> 
@@ -101,8 +107,11 @@ const FS24 = () => {
                                 </td>
                                 <td className="px-6 py-4 ">
                                     
-                                    
+                                </td>
                                     <Link href="/download/FS24/Presentation2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 2  </Link>
+                                    <td>
+                                    
+                                
                                     <Link href="/download/FS24/Übung 2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">  Menti</Link>
                                 </td>
                                 <td className="px-6 py-4 ">
