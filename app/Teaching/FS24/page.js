@@ -102,8 +102,8 @@ const FS24 = () => {
                                 <td className="px-6 py-4 ">
                                     
                                     
-                                    <Link href="/download/FS24/Presentation2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 2</Link>
-                                    <Link href="/download/FS24/Übung 2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Menti</Link>
+                                    <Link href="/download/FS24/Presentation2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 2  </Link>
+                                    <Link href="/download/FS24/Übung 2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">  Menti</Link>
                                 </td>
                                 <td className="px-6 py-4 ">
                                     <Link href="/download/FS24/ACOC II LÖSUNG 2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 2</Link>
