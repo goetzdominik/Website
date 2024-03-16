@@ -483,15 +483,7 @@ const Library = () => {
                                             {/* <Link href="/download/FS23/Periodensystem.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">PSE</Link> */}
                                         </td> 
                                     </tr> 
-                                    <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
-                                        MSB
-                                        </th>
-                                        <td className="px-6 py-4 ">
-                                           TBA
-                                            {/* <Link href="/download/FS23/Periodensystem.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">PSE</Link> */}
-                                        </td> 
-                                    </tr> 
+                                    
 
                                 </tbody>
                             </table>

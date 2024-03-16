@@ -6,6 +6,17 @@ const FS24 = () => {
                 ACOC II
             </h1>
             <div className=" text_card_grid">
+                <div className="md:w-1/5 hidden md:block "></div>
+                <div className =" md:w-3/5 text_card ">
+                    <h2>
+                        Important!
+                    </h2>
+                    <p className="text-gray-500">Becuase of my block course the exercise session two weeks before and one week after easter will be held tuesdays in the HCI H2.1 from 09:45-10:30. </p>
+                </div>
+                <div className="md:w-1/5 hidden md:block "></div>
+            </div>
+            <div className=" text_card_grid">
+
                 <div className =" md:w-3/5 text_card ">
                     <h2>
                     529-0012-03L Allgemeine Chemie II (OC)
