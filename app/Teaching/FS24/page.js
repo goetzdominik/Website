@@ -126,12 +126,12 @@ const FS24 = () => {
                                 13.03.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                               
+                                <Link href="/download/FS24/ACOCII_U3.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 3 </Link>
                                 </td>
                                     
                                 <td className="px-6 py-4 ">
                                     
-                                
+                                <Link className = "text-blue-600 hover:underline" href="https://www.mentimeter.com/app/presentation/al43ydvekwpy6k5j943f48kptb97djnu/first/edit" target="_blank">Menti 2</Link>
                                    
                                 </td>
                                 <td className="px-6 py-4 ">
