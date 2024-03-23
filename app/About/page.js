@@ -4,6 +4,7 @@ const About = () => {
     <div className = "">   
      <h1 className="page_title" > 
                 About
+                {/* test\ */}
             </h1>
             <div className=" text_card_grid">
                 <div className =" md:w-3/5 text_card ">
