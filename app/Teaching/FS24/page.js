@@ -170,6 +170,27 @@ const FS24 = () => {
                                     <Link href="/download/FS24/ACOCII_FS24_L4.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 4</Link>
                                 </td> 
                             </tr> 
+                            <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                Recap 
+                                </th>
+                                <td className="px-6 py-4 hidden md:block ">
+                                19.03.2024
+                                </td>
+                                <td className="px-6 py-4 ">
+                                <Link href="/download/FS24/ACOC_II_U5.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 3 </Link>
+                                
+                                </td>
+                                    
+                                <td className="px-6 py-4 ">
+                                    
+                                {/* <Link className = "text-blue-600 hover:underline" href="https://www.mentimeter.com/app/presentation/aln8dmybzxmc978uy3xsdvxziw96ed52/first/edit" target="_blank">Menti 3</Link> */}
+                                   404
+                                </td>
+                                <td className="px-6 py-4 ">
+                                    {/* <Link href="/download/FS24/ACOCII_FS24_L4.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 4</Link> */}
+                                </td> 
+                            </tr> 
                         </tbody>
                     </table>
                 </div>
