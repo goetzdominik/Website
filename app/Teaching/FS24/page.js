@@ -123,7 +123,7 @@ const FS24 = () => {
                                 <td className="px-6 py-4 ">
                                     
                                 
-                                    <Link href="/download/FS24/Übung 2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">  Menti</Link>
+                                    <Link href="/download/FS24/Übung 2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">  Menti 2</Link>
                                 </td>
                                 <td className="px-6 py-4 ">
                                     <Link href="/download/FS24/ACOC II LÖSUNG 2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 2</Link>
@@ -142,7 +142,7 @@ const FS24 = () => {
                                     
                                 <td className="px-6 py-4 ">
                                     
-                                <Link className = "text-blue-600 hover:underline" href="https://www.mentimeter.com/app/presentation/al43ydvekwpy6k5j943f48kptb97djnu/first/edit" target="_blank">Menti 2</Link>
+                                <Link className = "text-blue-600 hover:underline" href="https://www.mentimeter.com/app/presentation/al43ydvekwpy6k5j943f48kptb97djnu/first/edit" target="_blank">Menti 3</Link>
                                    
                                 </td>
                                 <td className="px-6 py-4 ">
@@ -163,7 +163,7 @@ const FS24 = () => {
                                     
                                 <td className="px-6 py-4 ">
                                     
-                                <Link className = "text-blue-600 hover:underline" href="https://www.mentimeter.com/app/presentation/aln8dmybzxmc978uy3xsdvxziw96ed52/first/edit" target="_blank">Menti 3</Link>
+                                <Link className = "text-blue-600 hover:underline" href="https://www.mentimeter.com/app/presentation/aln8dmybzxmc978uy3xsdvxziw96ed52/first/edit" target="_blank">Menti 4</Link>
                                    
                                 </td>
                                 <td className="px-6 py-4 ">
