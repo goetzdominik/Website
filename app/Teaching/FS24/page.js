@@ -175,7 +175,7 @@ const FS24 = () => {
                                 Recap 
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
-                                19.03.2024
+                                27.03.2024
                                 </td>
                                 <td className="px-6 py-4 ">
                                 <Link href="/download/FS24/ACOC_II_U5.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 5 </Link>
@@ -190,6 +190,28 @@ const FS24 = () => {
                                 <td className="px-6 py-4 ">
                                     {/* <Link href="/download/FS24/ACOCII_FS24_L4.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 4</Link> */}
                                     <p>no solution </p>
+                                </td> 
+                            </tr> 
+                            <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                S<sub>E</sub>Ar
+                                </th>
+                                <td className="px-6 py-4 hidden md:block ">
+                                09.04.2024
+                                </td>
+                                <td className="px-6 py-4 ">
+                                <Link href="/download/FS24/ACOC_II_U6-pre.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 6 </Link>
+                                
+                                </td>
+                                    
+                                <td className="px-6 py-4 ">
+                                    
+                                {/* <Link className = "text-blue-600 hover:underline" href="/download/FS24/ACOCII_U5_menti.pdf" target="_blank">Menti 5</Link> */}
+
+                                </td>
+                                <td className="px-6 py-4 ">
+                                    <Link href="/download/FS24/ACOCII_FS24_L5.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 5</Link>
+
                                 </td> 
                             </tr> 
                         </tbody>
