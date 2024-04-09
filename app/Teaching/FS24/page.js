@@ -200,13 +200,13 @@ const FS24 = () => {
                                 09.04.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                <Link href="/download/FS24/ACOC_II_U6-pre.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 6 </Link>
+                                <Link href="/download/FS24/ACOC_II_U6.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 6 </Link>
                                 
                                 </td>
                                     
                                 <td className="px-6 py-4 ">
                                     
-                                {/* <Link className = "text-blue-600 hover:underline" href="/download/FS24/ACOCII_U5_menti.pdf" target="_blank">Menti 5</Link> */}
+                                <Link className = "text-blue-600 hover:underline" href="/download/FS24/ACOCII_U6_menti.pdf" target="_blank">Menti 5</Link>
 
                                 </td>
                                 <td className="px-6 py-4 ">
