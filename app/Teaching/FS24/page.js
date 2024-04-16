@@ -214,6 +214,28 @@ const FS24 = () => {
 
                                 </td> 
                             </tr> 
+                            <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                Detailed S<sub>E</sub>Ar
+                                </th>
+                                <td className="px-6 py-4 hidden md:block ">
+                                17.04.2024
+                                </td>
+                                <td className="px-6 py-4 ">
+                                <Link href="/download/FS24/ACOC_II_U7.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 7 </Link>
+                                
+                                </td>
+                                    
+                                <td className="px-6 py-4 ">
+                                    
+                                {/* <Link className = "text-blue-600 hover:underline" href="/download/FS24/ACOCII_U6_menti.pdf" target="_blank">Menti 5</Link> */}
+
+                                </td>
+                                <td className="px-6 py-4 ">
+                                    <Link href="/download/FS24/ACOCII_FS24_L6.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 6</Link>
+
+                                </td> 
+                            </tr> 
                         </tbody>
                     </table>
                 </div>
