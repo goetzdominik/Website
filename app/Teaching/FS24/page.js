@@ -7,17 +7,20 @@ const FS24 = () => {
             </h1>
             
             <div className=" text_card_grid">
-                <div   className="md:w-1/5 text_card" >
+                {/* <div   className="md:w-1/5 text_card" >
 
-                </div>
+                </div> */}
                 <div   className="md:w-3/5 text_card" >
+                <h2>
+                Announcement
+                    </h2>
                 <p className="text-gray-500">
                     Due to the info event for Bachlor Students this weeks exercise session has been moved to Tuesday (23.04) 09:45-10:30. We will meet in HCI H2.1, I will be ther 15min before and after for any questions.
                     </p>
                 </div>
-                <div   className="md:w-1/5 text_card" >
+                {/* <div   className="md:w-1/5 text_card" >
 
-                </div>
+                </div> */}
 
                 <div className =" md:w-3/5 text_card ">
                     <h2>
