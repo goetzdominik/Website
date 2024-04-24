@@ -255,7 +255,7 @@ const FS24 = () => {
                                     
                                 <td className="px-6 py-4 ">
                                     
-                                {/* <Link className = "text-blue-600 hover:underline" href="/download/FS24/ACOC_II_U7_menti.pdf" target="_blank">Menti 7</Link> */}
+                                <Link className = "text-blue-600 hover:underline" href="/download/FS24/ACOC_II_U8_menti.pdf" target="_blank">Menti 8</Link>
 
                                 </td>
                                 <td className="px-6 py-4 ">
