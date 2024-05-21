@@ -156,7 +156,7 @@ const FS24 = () => {
                             </tr> 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
                                 <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
-                                Hammett 
+                                No session 
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
                                 19.03.2024
@@ -177,7 +177,7 @@ const FS24 = () => {
                             </tr> 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
                                 <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
-                                Recap 
+                                Hammett 
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
                                 27.03.2024
