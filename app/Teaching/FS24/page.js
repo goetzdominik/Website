@@ -167,8 +167,8 @@ const FS24 = () => {
                                 </td>
                                     
                                 <td className="px-6 py-4 ">
-                                    
-                                <Link className = "text-blue-600 hover:underline" href="https://www.mentimeter.com/app/presentation/aln8dmybzxmc978uy3xsdvxziw96ed52/first/edit" target="_blank">Menti 4</Link>
+                                    no menti
+                                {/* <Link className = "text-blue-600 hover:underline" href="https://www.mentimeter.com/app/presentation/aln8dmybzxmc978uy3xsdvxziw96ed52/first/edit" target="_blank">Menti 4</Link> */}
                                    
                                 </td>
                                 <td className="px-6 py-4 ">
