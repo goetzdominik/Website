@@ -8,7 +8,7 @@ const Cards = () => {
             <div className="mt-8 grid grid-cols-1    sm:grid-cols-2 lg:grid-cols-4 gap-8  text-primary dark:text-gray-100" >
                         
             <Link className = "card   "  href = "/PVK/ACOCII">
-                        <Image isZoomed src="/img/Main/PVK_ACOCII.jpg" fallbackSrc = "/img/Placeholder/filler_2.png"
+                        <Image isZoomed src="/img/Main/PVK_ACOCII.JPG" fallbackSrc = "/img/Placeholder/filler_2.png"
                         alt="NextUI hero Image with delay"  placeholder='blur' fill={true}/>
                         
                         <div className = "m-4">
