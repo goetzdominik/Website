@@ -7,8 +7,25 @@ const Cards = () => {
             <h3 className=" page_title  ">Teaching</h3>
             <div className="mt-8 grid grid-cols-1    sm:grid-cols-2 lg:grid-cols-4 gap-8  text-primary dark:text-gray-100" >
                         
-            
-            <Link className = "card   "  href = "/Teaching/FS24">
+            <Link className = "card   "  href = "/PVK/ACOCII">
+                        <Image isZoomed src="/img/Main/PVK_ACOCII.jpg" fallbackSrc = "/img/Placeholder/filler_2.png"
+                        alt="NextUI hero Image with delay"  placeholder='blur' fill={true}/>
+                        
+                        <div className = "m-4">
+                            <span className =" font-bold"> PVK: ACOC II </span>
+                            <span className = "block text-secondary dark:text-gray-400"> Script and Recodings of the PVK </span>
+                        </div>
+                        <div className = "badge_left">
+                            <span>FS24</span>
+                            
+                        </div>
+                        <div className = "badge_right">
+                            <span>AI generated</span>
+                            
+                        </div>
+                    </Link>
+                    {/* Card for ACOCII exercise session    */}
+            {/* <Link className = "card   "  href = "/Teaching/FS24">
                         <Image isZoomed src="/img/Main/ACOCII.jpg" fallbackSrc = "/img/Placeholder/filler_2.png"
                         alt="NextUI hero Image with delay"  placeholder='blur' fill={true}/>
                         
@@ -24,7 +41,7 @@ const Cards = () => {
                             <span>AI generated</span>
                             
                         </div>
-                    </Link>
+                    </Link> */}
                      <Link className = "card   "  href = "/Teaching/HS23">
                         <Image  isZoomed src="/img/Main/ACOCI.jpg"  alt="ACOCI" fallbackSrc = "/img/Placeholder/filler_2.png"  fill={true}/>
                         
