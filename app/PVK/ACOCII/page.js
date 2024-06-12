@@ -1,6 +1,6 @@
 'use client'
 import Link from "next/link";
-import Downloadables from "@/components/Downloadables";
+
 import { useState } from 'react';
 import {Image} from "@nextui-org/react";
 // import { Button } from "@nextui-org/react";
@@ -76,7 +76,7 @@ const ACOCII = () => {
 
             {isAuthenticated && (
             <div> 
-                {/* <Downloadables/> */}
+
                 <div className="lg:grid-cols-2 grid gap-8">
                     <div className="">
                         <div className="relative overflow-x-auto shadow-md rounded-lg mt-8  ">
