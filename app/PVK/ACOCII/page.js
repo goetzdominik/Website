@@ -102,7 +102,7 @@ const ACOCII = () => {
                                 <tbody>
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
                                     <td scope="col" className="px-6 py-3 ">
-                                    <Link href="/download/ACOCII/ACOC_II_PVK_Skript_unausgefüllt.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Skript </Link>
+                                    <Link href="/download/ACOCII/ACOC_II_PVK_Skript_unausgefullt.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Skript </Link>
                                         </td>
                                         <td scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         24.06.2024
@@ -148,7 +148,7 @@ const ACOCII = () => {
                                 <tbody>
                                 <tr className="odd:bg-white  even:bg-gray-0 border-b ">
                                      <td scope="col" className="px-6 py-3 ">
-                                     <Link href="/download/ACOCII/ACOC_II_PVK_Skript_unausgefüllt.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Skript </Link>
+                                     <Link href="/download/ACOCII/ACOC_II_PVK_Skript_unausgefullt.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Skript </Link>
                                     </td>
                                     <td scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                     24.06.2024
@@ -192,21 +192,21 @@ const ACOCII = () => {
                                 <tbody>
                                 <tr className="odd:bg-white  even:bg-gray-0 border-b ">
                                         <td scope="row" className="px-6 py-4 font-medium text-gray-900  ">
-                                        <Link href="/download/ACOCII/Extra/OC_Reaktionsgleichungen_Übungen.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Reaktionsgleichung Übung</Link>
+                                        <Link href="/download/ACOCII/Extra/OC_Reaktionsgleichungen_Ubungen.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Reaktionsgleichung Übung</Link>
                                         </td>
                                         <td className="px-6 py-4  ">
-                                        <Link href="/download/ACOCII/Extra/OC_Reaktionsgleichungen_Lösungen.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Reaktiongleichung Lösung </Link>
+                                        <Link href="/download/ACOCII/Extra/OC_Reaktionsgleichungen_Losungen.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Reaktiongleichung Lösung </Link>
                                         </td>
                                         <td className="px-6 py-4 ">
-                                            <Link href="/download/ACOCII/Extra/OC_Reaktionssammlung_Übung .pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Reaktionssammlung </Link>
+                                            <Link href="/download/ACOCII/Extra/OC_Reaktionssammlung_Ubung .pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Reaktionssammlung </Link>
                                         </td>
                                        <td>
-                                       <Link href="/download/ACOCII/Extra/OC_Reaktionssammlung_Lösungen.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Reaktionssammlung Lösung</Link>
+                                       <Link href="/download/ACOCII/Extra/OC_Reaktionssammlung_Losungen.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Reaktionssammlung Lösung</Link>
                                         </td>
                                     </tr> 
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
                                         <td scope="row" className="px-6 py-4 font-medium text-gray-900  ">
-                                        <Link href="/download/ACOCII/Extra/Abkürzungen.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Abkürzungen</Link>
+                                        <Link href="/download/ACOCII/Extra/Abkurzungen.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Abkürzungen</Link>
                                         </td>
                                         <td className="px-6 py-4  ">
                                         <Link href="/download/ACOCII/Extra/Funktionelle_Gruppen.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Funktionelle Gruppen</Link>
@@ -215,7 +215,7 @@ const ACOCII = () => {
                                             <Link href="/download/ACOCII/Extra/ACOCII_Zusammenfassung.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Zusammenfassung</Link>
                                         </td>
                                         <td>
-                                        <Link href="/download/ACOCII/ACOC_II_PVK_Skript_unausgefüllt.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">PVK Skript</Link>
+                                        <Link href="/download/ACOCII/ACOC_II_PVK_Skript_unausgefullt.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">PVK Skript</Link>
                                             </td>
                                     </tr> 
                                         
