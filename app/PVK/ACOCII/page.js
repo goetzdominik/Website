@@ -107,7 +107,7 @@ const ACOCII = () => {
                                         </td>
                                         
                                         <td className="px-6 py-4  ">
-                                        <Link href="/download/HS23/Skript Ausgefüllt_vormittag.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Filled</Link>
+                                        <Link href="/download/HS23/Skript Ausgefuullt_vormittag.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Filled</Link>
                                         </td>
                                        
                                        
@@ -149,7 +149,7 @@ const ACOCII = () => {
                                     </td>
                                     
                                     <td className="px-6 py-4  ">
-                                    <Link href="/download/HS23/Skript Ausgefüllt_Nachmittag.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Filled</Link>
+                                    <Link href="/download/HS23/Skript Ausgefullt_Nachmittag.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Filled</Link>
                                     </td>
                                   
                                     
