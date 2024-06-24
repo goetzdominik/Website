@@ -91,29 +91,25 @@ const ACOCII = () => {
                                         </th>
                                         
                                         <th scope="col" className="px-6 py-3 text-gray-500">
-                                        Menti
+                                        Script filled out
                                         </th>
-                                        <th scope="col" className="px-6 py-3 text-gray-500">
-                                        Recordings
-                                        </th>
+                                       
                                       
                                     </tr>
                                 </thead>
                                 <tbody>
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
                                     <td scope="col" className="px-6 py-3 ">
-                                    <Link href="/download/ACOCII/ACOC_II_PVK_Skript_unausgefullt.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Skript </Link>
+                                    <Link href="/download/ACOCII/ACOC_II_PVK_Skript_unausgefullt.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Script  </Link>
                                         </td>
                                         <td scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         24.06.2024
                                         </td>
                                         
                                         <td className="px-6 py-4  ">
-                                        {/* <Link href="/download/HS23/ACOC_I_U1.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Menti 1</Link> */}
+                                        <Link href="/download/HS23/Skript Ausgefüllt_vormittag.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Filled</Link>
                                         </td>
-                                        <td className="px-6 py-4 ">
-                                            {/* <Link href="/download/HS23/ACOC_I_U1.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Video 1</Link> */}
-                                        </td>
+                                       
                                        
                                     </tr> 
                                     
@@ -137,11 +133,9 @@ const ACOCII = () => {
                                         </th>
                                         
                                         <th scope="col" className="px-6 py-3 text-gray-500">
-                                        Menti
+                                        Script filled out
                                         </th>
-                                        <th scope="col" className="px-6 py-3 text-gray-500">
-                                        Recordings
-                                        </th>
+                                      
                                       
                                     </tr>
                                 </thead>
@@ -155,11 +149,9 @@ const ACOCII = () => {
                                     </td>
                                     
                                     <td className="px-6 py-4  ">
-                                    {/* <Link href="/download/HS23/ACOC_I_U1.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Menti 1</Link> */}
+                                    <Link href="/download/HS23/Skript Ausgefüllt_Nachmittag.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Filled</Link>
                                     </td>
-                                    <td className="px-6 py-4 ">
-                                        {/* <Link href="/download/HS23/ACOC_I_U1.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Video 1</Link> */}
-                                    </td>
+                                  
                                     
                                     </tr> 
                                    
@@ -175,7 +167,7 @@ const ACOCII = () => {
                                 <thead className="text-xs text-primary uppercase bg-gray-200  ">
                                     <tr>
                                         <th scope="col" className="px-6 py-3">
-                                        Extra Docuemnts 
+                                        Extra Documents 
                                         </th>
                                         <th scope="col" className="px-6 py-3">
                                             
