@@ -162,7 +162,7 @@ const ACOCII = () => {
                                 <tbody>
                                     <tr className="odd:bg-white  even:bg-gray-0 border-b ">
                                         <td scope="col" className="px-6 py-3 ">
-                                        <Link href="/download/ACOCII/ACOC_II_PVK_Skript_unausgefullt.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Skript </Link>
+                                        <Link href="/download/ACOCII/ACOC_II_PVK_Skript_unausgefullt.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Script </Link>
                                         </td>
                                         <td scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         24.06.2024
