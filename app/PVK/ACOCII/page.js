@@ -89,7 +89,9 @@ const ACOCII = () => {
                                         <th scope="col" className="px-6 py-3 text-gray-500 ">
                                         Date
                                         </th>
-                                        
+                                        <th scope="col" className="px-6 py-3 text-gray-500">
+                                            Menti
+                                        </th>
                                         <th scope="col" className="px-6 py-3 text-gray-500">
                                         Script filled out
                                         </th>
@@ -105,14 +107,30 @@ const ACOCII = () => {
                                         <td scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         24.06.2024
                                         </td>
-                                        
+                                        <td scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                        </td>
                                         <td className="px-6 py-4  ">
                                         <Link href="/download/ACOCII/Skript Ausgefullt_vormittag.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Filled</Link>
                                         </td>
                                        
                                        
                                     </tr> 
+                                    <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                                        <td scope="col" className="px-6 py-3 ">
+                                        {/* <Link href="/download/ACOCII/ACOC_II_PVK_Skript_unausgefullt.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Skript </Link> */}
+                                        </td>
+                                        <td scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                        25.06.2024
+                                        </td>
+                                        <td scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                        <Link href="/download/ACOCII/ACOC II PVK Tag I-morgens.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Menti</Link>
+                                        </td>
+                                        <td className="px-6 py-4  ">
+                                        <Link href="/download/ACOCII/morgens.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Day 2</Link>
+                                        </td>
                                     
+                                        
+                                    </tr> 
                                         
                                 
                                 </tbody>
@@ -131,7 +149,9 @@ const ACOCII = () => {
                                         <th scope="col" className="px-6 py-3 text-gray-500 ">
                                         Date
                                         </th>
-                                        
+                                        <th scope="col" className="px-6 py-3 text-gray-500">
+                                            Menti
+                                        </th>
                                         <th scope="col" className="px-6 py-3 text-gray-500">
                                         Script filled out
                                         </th>
@@ -140,21 +160,38 @@ const ACOCII = () => {
                                     </tr>
                                 </thead>
                                 <tbody>
-                                <tr className="odd:bg-white  even:bg-gray-0 border-b ">
-                                     <td scope="col" className="px-6 py-3 ">
-                                     <Link href="/download/ACOCII/ACOC_II_PVK_Skript_unausgefullt.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Skript </Link>
-                                    </td>
-                                    <td scope="row" className="px-6 py-4 font-medium text-gray-900  ">
-                                    24.06.2024
-                                    </td>
+                                    <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                                        <td scope="col" className="px-6 py-3 ">
+                                        <Link href="/download/ACOCII/ACOC_II_PVK_Skript_unausgefullt.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Skript </Link>
+                                        </td>
+                                        <td scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                        24.06.2024
+                                        </td>
+                                        <td scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                        {/* <Link href="/download/ACOCII/Skript Ausgefullt_Nachmittag.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Mento</Link> */}
+                                        </td>
+                                        <td className="px-6 py-4  ">
+                                        <Link href="/download/ACOCII/Skript Ausgefullt_Nachmittag.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Filled</Link>
+                                        </td>
                                     
-                                    <td className="px-6 py-4  ">
-                                    <Link href="/download/ACOCII/Skript Ausgefullt_Nachmittag.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Filled</Link>
-                                    </td>
-                                  
-                                    
+                                        
                                     </tr> 
-                                   
+                                    <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                                        <td scope="col" className="px-6 py-3 ">
+                                        {/* <Link href="/download/ACOCII/ACOC_II_PVK_Skript_unausgefullt.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Skript </Link> */}
+                                        </td>
+                                        <td scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                        25.06.2024
+                                        </td>
+                                        <td scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                        <Link href="/download/ACOCII/ACOC II PVK Tag I-mittags.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Menti</Link>
+                                        </td>
+                                        <td className="px-6 py-4  ">
+                                        <Link href="/download/ACOCII/mittags.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Day 2</Link>
+                                        </td>
+                                    
+                                        
+                                    </tr> 
                                         
                                 
                                 </tbody>
