@@ -110,7 +110,7 @@ const ACOCII = () => {
                                         <td scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                         </td>
                                         <td className="px-6 py-4  ">
-                                        <Link href="/download/ACOCII/Skript Ausgefullt_vormittag.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Filled</Link>
+                                        <Link href="/download/ACOCII/Skript Ausgefullt_vormittag.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Day 1</Link>
                                         </td>
                                        
                                        
@@ -171,7 +171,7 @@ const ACOCII = () => {
                                         {/* <Link href="/download/ACOCII/Skript Ausgefullt_Nachmittag.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Mento</Link> */}
                                         </td>
                                         <td className="px-6 py-4  ">
-                                        <Link href="/download/ACOCII/Skript Ausgefullt_Nachmittag.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Filled</Link>
+                                        <Link href="/download/ACOCII/Skript Ausgefullt_Nachmittag.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Day 1</Link>
                                         </td>
                                     
                                         
