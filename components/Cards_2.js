@@ -9,7 +9,7 @@ const Cards_2 = () => {
             <div className="mt-8 grid grid-cols-1    md:grid-cols-2 lg:grid-cols-3 lg:pl-28 lg:pr-28 pl-6 pr-6 sm:p-0 gap-8  text-primary dark:text-gray-100" >
                         
             <Link className = "card   "  href = "/Teaching/HS24">
-                        <Image isZoomed src="/img/Main/OCI.JPG" fallbackSrc = "/img/Placeholder/filler_2.png"
+                        <Image isZoomed src="/img/Main/OCI.jpg" fallbackSrc = "/img/Placeholder/filler_2.png"
                         alt="NextUI hero Image with delay"  placeholder='blur' fill={true}/>
                         
                         <div className = "m-4">
@@ -33,7 +33,7 @@ const Cards_2 = () => {
                   
                     {/* Card for ACOCII exercise session    */}
                     <Link className = "card   "  href = "/PVK/ACOCII">
-                        <Image isZoomed src="/img/Main/PVK_ACOCII.jpg" fallbackSrc = "/img/Placeholder/filler_2.png"
+                        <Image isZoomed src="/img/Main/PVK_ACOCII.JPG" fallbackSrc = "/img/Placeholder/filler_2.png"
                         alt="NextUI hero Image with delay"  placeholder='blur' fill={true}/>
                         
                         <div className = "m-4">
