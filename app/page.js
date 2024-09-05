@@ -4,7 +4,7 @@ import Navbar from '@/components/Navbar'
 import MainBody from '@/components/MainBody'
 import Image from 'next/image'
 import Cards from '@/components/Cards'
-import Cards_2 from '@/components/Cards_2'
+
 import { useRouter } from 'next/navigation';
 
 
@@ -19,7 +19,7 @@ export default function Home() {
          {/* <MainBody/> */}
          
         <Cards/>
-        <Cards_2/>
+
 
     </main>
   )
