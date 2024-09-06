@@ -11,6 +11,10 @@ const Gallery = () => {
         <div className="grid gap-4">
           {/* Column 1 */}
           <div className="gallery_card">
+            <Image radius="lg"  className="image_content" placeholder='blur' src="/img/Gallery/cloud.jpg" alt="1" fallbackSrc = "/img/Placeholder/filler_2.png"  fill={true}/>
+            <div className="overlay_text z-20">Irridescnet cloud in the skys</div>
+          </div>
+          <div className="gallery_card">
             <Image radius="lg"  className="image_content" placeholder='blur' src="/img/Gallery/vcs_small.jpg" alt="1" fallbackSrc = "/img/Placeholder/filler_2.png"  fill={true}/>
             <div className="overlay_text z-20">VCS - Culture Komission Board Member (HS22)</div>
           </div>
@@ -28,6 +32,10 @@ const Gallery = () => {
         {/* Row 2 */}
         <div className="grid gap-4">
           {/* Column 1 */}
+          <div className="gallery_card">
+            <Image radius="lg"  className="image_content" placeholder='blur' src="/img/Gallery/motorradtur.jpg" alt="5" fallbackSrc = "/img/Placeholder/filler_2.png"  fill={true}/>
+            <div className="overlay_text">View from my last vacation (2024)</div>
+          </div>
           <div className="gallery_card">
             <Image radius="lg"  className="image_content "  placeholder='blur' src="/img/Gallery/dominik.jpg" alt="4" fallbackSrc = "/img/Placeholder/filler_2.png"  fill={true}/>
             <div className="overlay_text">At Polyball 2023, Europes biggest dance ball</div>
@@ -47,6 +55,10 @@ const Gallery = () => {
         <div className="grid gap-4">
           {/* Column 1 */}
           <div className="gallery_card">
+            <Image radius="lg"  className="image_content" placeholder='blur' src="/img/Gallery/weidaussicht.jpg" alt="7" fallbackSrc = "/img/Placeholder/filler_2.png"  fill={true}/>
+            <div className="overlay_text">View from the Weid Aussicht in Zurich </div>
+          </div>
+          <div className="gallery_card">
             <Image radius="lg"  className="image_content" placeholder='blur' src="/img/Gallery/bike_small.jpg" alt="7" fallbackSrc = "/img/Placeholder/filler_2.png"  fill={true}/>
             <div className="overlay_text">In summer you will find me on the road with my bike </div>
           </div>
@@ -64,6 +76,10 @@ const Gallery = () => {
         {/* Row 4 */}
         <div className="grid gap-4">
           {/* Column 1 */}
+          <div className="gallery_card">
+            <Image radius="lg"  className="image_content"  placeholder='blur' src="/img/Gallery/alphainsights.jpg" alt="10" fallbackSrc = "/img/Placeholder/filler_2.png"  fill={true}/>
+            <div className="overlay_text">First lab day with alphainsights</div>
+          </div>
           <div className="gallery_card">
             <Image radius="lg"  className="image_content"  placeholder='blur' src="/img/Gallery/heart_small_2.jpg" alt="10" fallbackSrc = "/img/Placeholder/filler_2.png"  fill={true}/>
             <div className="overlay_text">Cy5 labled mRNA under confocal microscope</div>

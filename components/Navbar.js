@@ -77,13 +77,11 @@ const Navbar = () => {
                                     </Button>
                                 </DropdownTrigger>
                                 <DropdownMenu  className={lora.className} aria-label="Static Actions">
-                                    <DropdownItem className="   border-b-2 " key="HS24">
-                                        <Link href="/Teaching/HS24" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">Currently: OC I </Link>
+                                    <DropdownItem className="   " key="HS24">
+                                        <Link href="/Teaching/HS24" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">OC I (currently) </Link>
                                         
                                     </DropdownItem>
-                                    <DropdownItem className="" key="PVK_ACOCII">
-                                        <Link href="/PVK/ACOCII" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">PVK: ACOC II</Link>
-                                    </DropdownItem>
+                                   
                                     <DropdownItem className="  " key="FS24">
                                         <Link href="/Teaching/FS24" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">ACOC II</Link>
                                     </DropdownItem>
@@ -95,6 +93,9 @@ const Navbar = () => {
                                     </DropdownItem>
                                     <DropdownItem className=" border-b-2 " key="HS22" >
                                         <Link href="/Teaching/HS22" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">Informatics I </Link>
+                                    </DropdownItem>
+                                    <DropdownItem className="border-b-2 " key="PVK_ACOCII">
+                                        <Link href="/PVK/ACOCII" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">PVK: ACOC II</Link>
                                     </DropdownItem>
                                     <DropdownItem key="library" >
                                         <Link href="/Library" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">Library </Link>
