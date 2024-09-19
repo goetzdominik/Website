@@ -21,7 +21,7 @@ const HS24 = () => {
                         Session and Slides
                     </h2>
                      <p className="text-gray-500">
-                        We are meeting every tuesday at 7:45 in HCI E 8, please be on time. Below you will find my notes for the exercise session with tips for the series. These are in no way a substitute for the scripts or the lecture and should only be used as additional aids.
+                        We are meeting every tuesday at 7:45 in HCI E 2, please be on time. Below you will find my notes for the exercise session with tips for the series. These are in no way a substitute for the scripts or the lecture and should only be used as additional aids.
                     </p>
                 </div>
                 <div className =" md:w-2/5 text_card_icon ">
