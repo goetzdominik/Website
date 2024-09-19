@@ -18,10 +18,10 @@ const HS24 = () => {
                 </div>
                 <div   className="md:w-3/5 text_card" >
                     <h2>
-                        Slides
+                        Session and Slides
                     </h2>
                      <p className="text-gray-500">
-                        Below you will find my notes for the exercise session with tips for the series. These are in no way a substitute for the scripts or the lecture and should only be used as additional aids.
+                        We are meeting every tuesday at 7:45 in HCI E 8, please be on time. Below you will find my notes for the exercise session with tips for the series. These are in no way a substitute for the scripts or the lecture and should only be used as additional aids.
                     </p>
                 </div>
                 <div className =" md:w-2/5 text_card_icon ">
@@ -61,32 +61,22 @@ const HS24 = () => {
                                 <th scope="col" className="px-6 py-3">
                                     Slides
                                 </th>
-                                <th scope="col" className="px-6 py-3">
-                                    Menti
-                                </th>
-                                <th scope="col" className="px-6 py-3">
-                                    Solutions
-                                </th>
+                               
                             </tr>
                         </thead>
                         <tbody>
-                            {/* <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                            <tr className="odd:bg-white  even:bg-gray-0 border-b ">
                                 <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
-                                Introduction
+                                S1 
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
-                                28.02.2024
+                                24.09.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/FS24/ACOC_II_U1.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 1</Link>
+                                    {/* <Link href="/download/FS24/ACOC_II_U1.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 1</Link> */}
                                 </td>
-                                <td className="px-6 py-4 ">    
-                                    no menti
-                                </td>
-                                <td className="px-6 py-4 ">
-                                    <Link href="/download/FS24/Handouts.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Handouts</Link>
-                                </td> 
-                            </tr>  */}
+                               
+                            </tr> 
                            
                         </tbody>
                     </table>
