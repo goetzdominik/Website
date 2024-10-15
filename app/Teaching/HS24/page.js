@@ -65,6 +65,18 @@ const HS24 = () => {
                             </tr>
                         </thead>
                         <tbody>
+                        <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                No Session
+                                </th>
+                                <td className="px-6 py-4 hidden md:block ">
+                                17.09.2024
+                                </td>
+                                <td className="px-6 py-4 ">
+                                    
+                                </td>
+                               
+                            </tr> 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
                                 <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 Recap of ACOC 
@@ -73,7 +85,7 @@ const HS24 = () => {
                                 24.09.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS24/ex1.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 1</Link>
+                                    <Link href="/download/HS24/ex1.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 2</Link>
                                 </td>
                                
                             </tr> 
@@ -86,7 +98,7 @@ const HS24 = () => {
                                 01.10.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS24/ex2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 2</Link>
+                                    <Link href="/download/HS24/ex2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 3</Link>
                                 </td>
                                
                             </tr> 
@@ -98,7 +110,19 @@ const HS24 = () => {
                                 08.10.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS24/ex3.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 3</Link>
+                                    <Link href="/download/HS24/ex3.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 4</Link>
+                                </td>
+                               
+                            </tr> 
+                            <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                Imine and Enamine formation
+                                </th>
+                                <td className="px-6 py-4 hidden md:block ">
+                                15.10.2024
+                                </td>
+                                <td className="px-6 py-4 ">
+                                    <Link href="/download/HS24/ex3.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 5</Link>
                                 </td>
                                
                             </tr> 
