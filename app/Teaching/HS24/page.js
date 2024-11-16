@@ -162,6 +162,18 @@ const HS24 = () => {
                                 </td>
                                
                             </tr> 
+                            <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                Addition Elimination Reactions II
+                                </th>
+                                <td className="px-6 py-4 hidden md:block ">
+                                11.11.2024
+                                </td>
+                                <td className="px-6 py-4 ">
+                                    <Link href="/download/HS24/ex8.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 9</Link>
+                                </td>
+                               
+                            </tr> 
                         </tbody>
                     </table>
                 </div>
