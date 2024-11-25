@@ -114,16 +114,16 @@ const Cards = () => {
                    
                 </div>
                 <h3 className=" page_title mt-6  ">Personal</h3>
-            <div className="mt-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4  gap-8  text-primary dark:text-gray-100" >
-
-            <Link className = "card  "   href = "/Library">
-                    <Image isZoomed src="/img/Main/bib.jpg" alt="Library" fallbackSrc = "/img/Placeholder/filler_2.png"  fill={true}/>
-                        <div className = "m-4">
-                            <span className =" font-bold"> Library </span>
-                            <span className = "block text-secondary dark:text-gray-400 "> Useful documents for all lectures I have taken.</span>
-                        </div>
-                    </Link>
-            <Link className = "card  "   href = "/Presentation">
+            <div className="card_layout_4" >
+            {/* mt-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4  gap-8  text-primary dark:text-gray-100 */}
+                <Link className = "card  "   href = "/Library">
+                        <Image isZoomed src="/img/Main/bib.jpg" alt="Library" fallbackSrc = "/img/Placeholder/filler_2.png"  fill={true}/>
+                            <div className = "m-4">
+                                <span className =" font-bold"> Library </span>
+                                <span className = "block text-secondary dark:text-gray-400 "> Useful documents for all lectures I have taken.</span>
+                            </div>
+                        </Link>
+                <Link className = "card  "   href = "/Presentation">
                     <Image isZoomed src="/img/Main/RBTL_big.jpg" fallbackSrc = "/img/Placeholder/filler_2.png" alt="Presentation"fill={true}/>
                         <div className = "m-4">
                             <span className =" font-bold"> Presentations </span>
