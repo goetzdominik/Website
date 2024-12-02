@@ -230,7 +230,7 @@ const HS23 = () => {
                     <Link href="/download/HS23/ACOC_I_U11.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 11</Link>
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_10.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Solution 10</Link>
+                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_10 .pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Solution 10</Link>
                 </td>
             </tr>
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
