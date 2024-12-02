@@ -167,7 +167,7 @@ const HS24 = () => {
                                 Addition Elimination Reactions II
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
-                                11.11.2024
+                                12.11.2024
                                 </td>
                                 <td className="px-6 py-4 ">
                                     <Link href="/download/HS24/ex8.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 9</Link>
@@ -179,7 +179,7 @@ const HS24 = () => {
                                 Reduction
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
-                                18.11.2024
+                                19.11.2024
                                 </td>
                                 <td className="px-6 py-4 ">
                                     <Link href="/download/HS24/ex9.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 10</Link>
