@@ -13,7 +13,7 @@ const Now = () => {
           </div>
         </div>
         <div className="flex flex-col items-center pt-4">
-          <h1 className="text-3xl font-bold pt-2">Exam phase and webiste finalisation</h1>
+          <h1 className="text-3xl font-bold pt-2">Exam phase and Website finalisation</h1>
           <p className="py-2">03.02.2024</p>
           <div className="max-w-[600px]  px-4">
             <p>Only studying for one exam this seasion, OC III: Introduction to Asymmetric Synthesis. The lecture gives an  understanding to the principles of diastereoselective synthesis. Since this is my only exam I was able to 
