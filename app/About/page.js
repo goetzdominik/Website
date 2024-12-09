@@ -27,7 +27,7 @@ const About = () => {
                     Me 
                     </h2>
                     <p className="text-gray-500 ">
-                    Hello! My name is Dominik, a Biochemistry - Chemical Biology student in my 6th semester at ETH Zurich.As a teaching assistant, I am deeply passionate about organic chemistry, chemical biology, and bioinformatics. I recently started branching out into the materials department, because of their work with soft 
+                    Hello! My name is Dominik, a Biochemistry - Chemical Biology student in my first Master's semester at ETH Zurich. As a teaching assistant, I am deeply passionate about organic chemistry, chemical biology, and bioinformatics. I recently started branching out into the materials department, because of their work with soft 
                     materials. 
                     
                     
