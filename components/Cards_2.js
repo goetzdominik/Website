@@ -37,7 +37,7 @@ const Cards_2 = () => {
                         alt="NextUI hero Image with delay"  placeholder='blur' fill={true}/>
                         
                         <div className = "m-4">
-                            <span className =" font-bold"> PVK:ACOC II </span>
+                            <span className =" font-bold"> PVK: ACOC II </span>
                             <span className = "block text-secondary dark:text-gray-400"> Slides and Mentis.</span>
                         </div>
                         <div className = "badge_left">

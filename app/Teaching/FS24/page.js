@@ -3,7 +3,7 @@ const FS24 = () => {
     return ( 
         <div className="">   
             <h1 className="page_title" > 
-                ACOC II
+                FS24: ACOC II
             </h1>
             
             <div className=" text_card_grid">
@@ -39,7 +39,7 @@ const FS24 = () => {
                         <div>
                         <p className="text-gray-500">
                         Here you can find Anki flashcards.
-                            Created by Thea Ortner, revised by Lilly Malornry, with key concepts from ACOC II.
+                            Created by Thea Ortner, revised by Lilly Malorny, with key concepts from ACOC II.
                         </p>
                     </div>
                     <div>

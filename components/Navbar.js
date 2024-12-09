@@ -57,11 +57,11 @@ const Navbar = () => {
 
                     >
                     <ul className="flex flex-col   lg:flex-row items-center lg:p-0 font-medium lg:space-x-8 rtl:space-x-reverse dark:bg-gray-800 lg:dark:bg-gray-900 dark:border-gray-700">
-                        <li className='pt-2'>
+                        {/* <li className='pt-2'>
                             <Link href="/" onClick={closeMenu} className="block py-1 px-3   hover:text-gray-500 rounded  lg:hover:bg-transparent lg:p-0 ">
                                 
                                 Home</Link>
-                        </li>
+                        </li> */}
                         <li className=""> 
                             <Dropdown className="bg-white rounded-lg border border:gray-50 p-0 shadow-md">
                                 <DropdownTrigger>
@@ -77,25 +77,26 @@ const Navbar = () => {
                                     </Button>
                                 </DropdownTrigger>
                                 <DropdownMenu  className={lora.className} aria-label="Static Actions">
-                                    <DropdownItem className="   " key="HS24">
-                                        <Link href="/Teaching/HS24" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">OC I (currently) </Link>
-                                        
+                                <DropdownItem className="   " key="FS25">
+                                        <Link href="/Teaching/FS25" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">FS25: ACOC II (up next) </Link>        
                                     </DropdownItem>
-                                   
+                                     <DropdownItem className="   " key="HS24">
+                                        <Link href="/Teaching/HS24" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">HS24: OC I (currently) </Link>        
+                                    </DropdownItem>
                                     <DropdownItem className="  " key="FS24">
-                                        <Link href="/Teaching/FS24" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">ACOC II</Link>
+                                        <Link href="/Teaching/FS24" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">FS24: ACOC II</Link>
                                     </DropdownItem>
                                     <DropdownItem key="HS23">
-                                        <Link href="/Teaching/HS23" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">ACOC I</Link>
+                                        <Link href="/Teaching/HS23" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">HS23: ACOC I</Link>
                                     </DropdownItem>
                                     <DropdownItem key="FS23">
-                                        <Link href="/Teaching/FS23" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">ACAC II</Link>
+                                        <Link href="/Teaching/FS23" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">FS23: ACAC II</Link>
                                     </DropdownItem>
                                     <DropdownItem className=" border-b-2 " key="HS22" >
-                                        <Link href="/Teaching/HS22" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">Informatics I </Link>
+                                        <Link href="/Teaching/HS22" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">HS22: Informatics I </Link>
                                     </DropdownItem>
                                     <DropdownItem className="border-b-2 " key="PVK_ACOCII">
-                                        <Link href="/PVK/ACOCII" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">PVK: ACOC II</Link>
+                                        <Link href="/PVK/ACOCII" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">FS24: ACOC II (PVK)</Link>
                                     </DropdownItem>
                                     <DropdownItem key="library" >
                                         <Link href="/Library" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">Library </Link>
@@ -123,9 +124,9 @@ const Navbar = () => {
                                 </DropdownTrigger>
                                 <DropdownMenu className={lora.className} aria-label="Static Actions">
                                    
-                                    <DropdownItem key="now">
+                                    {/* <DropdownItem key="now">
                                         <Link href="/Now" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">Now</Link>
-                                    </DropdownItem>
+                                    </DropdownItem> */}
                                     <DropdownItem className=" " key="about">
                                         <Link href="/About" onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg  ">About</Link>
                                     </DropdownItem>

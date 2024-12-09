@@ -4,7 +4,7 @@ const HS22 = () => {
     return ( 
         <div className="">   
         <h1 className="page_title" > 
-            Informatik I 
+            HS22: Informati I 
         </h1>
         <div className=" text_card_grid">
             <div className =" md:w-2/5 text_card ">

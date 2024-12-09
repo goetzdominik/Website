@@ -3,7 +3,7 @@ const HS23 = () => {
     return ( 
         <div className="">   
             <h1 className="page_title" > 
-                ACOC I 
+                HS23: ACOC I 
             </h1>
             <div className=" text_card_grid">
                 <div className =" md:w-3/5 text_card ">
