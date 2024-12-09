@@ -200,13 +200,25 @@ const HS24 = () => {
                             </tr> 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
                                 <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
-                                Reactivity at alpha-Carbon
+                                Reactivity at alpha-Carbon I
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
                                 03.12.2024
                                 </td>
                                 <td className="px-6 py-4 ">
                                     <Link href="/download/HS24/ex11.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 12</Link>
+                                </td>
+                               
+                            </tr> 
+                            <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                Reactivity at alpha-Carbon II
+                                </th>
+                                <td className="px-6 py-4 hidden md:block ">
+                                10.12.2024
+                                </td>
+                                <td className="px-6 py-4 ">
+                                    <Link href="/download/HS24/ex12.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 13</Link>
                                 </td>
                                
                             </tr> 
