@@ -29,7 +29,9 @@ const Library = () => {
             </div>
 
         
-
+        <h2 className="page_subtitle mt-8">
+            BCB - Bachlor
+            </h2>
             <div className = " lg:grid-cols-3 grid gap-8 "> 
                 <div className > 
                     {/* first table  */}
@@ -492,8 +494,77 @@ const Library = () => {
                     </div>
                 </div>
             </div>
-            
+            <h2 className="page_subtitle mt-8">
+                BCB - Masters   
+            </h2>
+            <div className = " lg:grid-cols-2 grid gap-8 ">
+                <div>
+                    <h1 className = " page_subtitle">
+                        Year 1
+                    </h1>   
+                    <div> 
+                        {/* start of table */}
+                        <div className="relative overflow-x-auto shadow-md rounded-lg mt-8  ">
+                            <table className="w-full  text-left rtl:text-right text-secondary ">
+                                <thead className="text-xs text-primary uppercase bg-gray-200  ">
+                                    <tr>
+                                        <th scope="col" className="px-6 py-3">
+                                            Lecture
+                                        </th>
+                                        <th scope="col" className="px-6 py-3">
+                                            Document
+                                        </th>
 
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                            TBA
+                                        </th>
+                                        <td className="px-6 py-4 ">
+                                            TBA
+                                        </td> 
+                                    </tr> 
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <h1 className = " page_subtitle">
+                        Year 2
+                    </h1>   
+                    <div> 
+                        {/* start of table */}
+                        <div className="relative overflow-x-auto shadow-md rounded-lg mt-8  ">
+                            <table className="w-full  text-left rtl:text-right text-secondary ">
+                                <thead className="text-xs text-primary uppercase bg-gray-200  ">
+                                    <tr>
+                                        <th scope="col" className="px-6 py-3">
+                                            Lecture
+                                        </th>
+                                        <th scope="col" className="px-6 py-3">
+                                            Document
+                                        </th>
+
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                                        <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                        TBA
+                                        </th>
+                                        <td className="px-6 py-4 ">
+                                            TBA
+                                        </td> 
+                                    </tr> 
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
      );
 }
