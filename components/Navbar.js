@@ -52,7 +52,7 @@ const Navbar = () => {
 
     const renderDropdownItems = (items) => (
         items.map(item => (
-            <DropdownItem key={item.href} className="text-gray-700" description={item.description} shortcut = {item.shortcut}>
+            <DropdownItem key={item.href} className="text-primary ml-4" description={item.description} shortcut = {item.shortcut}>
            
                 <Link href={item.href} onClick={closeMenu} className="block hover:bg-gray-300 p-2 rounded-lg ">
                     {item.label}
@@ -90,7 +90,7 @@ const Navbar = () => {
                         <ul className="flex flex-col lg:flex-row items-center lg:p-0 font-medium lg:space-x-8 rtl:space-x-reverse dark:bg-gray-800 lg:dark:bg-gray-900 dark:border-gray-700">
                            
                             <li>
-                                <Dropdown className="bg-white rounded-lg border border:gray-50 p-0 shadow-md">
+                                <Dropdown className="bg-white rounded-lg mr-4 border border:gray-50 p-0 shadow-md">
                                     <DropdownTrigger>
                                         <Button variant="bordered" className="hover:text-gray-500 p-2 rounded-lg pb-0" radius="lg">
                                             Teaching

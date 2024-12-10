@@ -48,7 +48,7 @@
   @apply absolute right-0 bottom-0  p-4  text-primary hover:text-gray-500 dark:hover:text-blue-500  rounded-lg 
 }
 .badge_right, .badge_left, .badge_bottom_left, .badge_bottom_right {
-  @apply font-bold border-2 border-gray-700 bg-gray-300 z-20 text-secondary text-sm lg:text-xxs uppercase  rounded-full p-2 m-2 absolute !important ;
+  @apply font-bold border-2 border-gray-700 bg-gray-300 z-20 text-secondary text-sm lg:text-xxs uppercase  rounded-lg p-2 m-2 absolute !important ;
   height: 1.5rem; /* Ensure all badges have the same height */
   line-height: 2rem; /* Vertically align the text within the badge */
   display: flex; /* Enable flexbox for consistent alignment */
