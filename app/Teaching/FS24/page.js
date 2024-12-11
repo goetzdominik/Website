@@ -105,13 +105,13 @@ const FS24 = () => {
                                 28.02.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/FS24/ACOC_II_U1.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 1</Link>
+                                    <Link href="/download/FS24/ACOC_II_U1.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 1</Link>
                                 </td>
                                 <td className="px-6 py-4 ">    
                                     no menti
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/FS24/Handouts.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Handouts</Link>
+                                    <Link href="/download/FS24/Handouts.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Handouts</Link>
                                 </td> 
                             </tr> 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
@@ -122,16 +122,16 @@ const FS24 = () => {
                                 06.03.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                <Link href="/download/FS24/Presentation2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 2  </Link>
+                                <Link href="/download/FS24/Presentation2.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 2  </Link>
                                 </td>
                                     
                                 <td className="px-6 py-4 ">
                                     
                                 
-                                    <Link href="/download/FS24/Übung 2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">  Menti 2</Link>
+                                    <Link href="/download/FS24/Übung 2.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">  Menti 2</Link>
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/FS24/ACOC II LÖSUNG 2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 2</Link>
+                                    <Link href="/download/FS24/ACOC II LÖSUNG 2.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 2</Link>
                                 </td> 
                             </tr> 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
@@ -142,7 +142,7 @@ const FS24 = () => {
                                 13.03.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                <Link href="/download/FS24/ACOCII_U3.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 3 </Link>
+                                <Link href="/download/FS24/ACOCII_U3.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 3 </Link>
                                 </td>
                                     
                                 <td className="px-6 py-4 ">
@@ -151,7 +151,7 @@ const FS24 = () => {
                                    
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/FS24/ACOCII_FS24_L3.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 3</Link>
+                                    <Link href="/download/FS24/ACOCII_FS24_L3.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 3</Link>
                                 </td> 
                             </tr> 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
@@ -162,7 +162,7 @@ const FS24 = () => {
                                 19.03.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                {/* <Link href="/download/FS24/ACOCII_U3.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 3 </Link> */}
+                                {/* <Link href="/download/FS24/ACOCII_U3.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 3 </Link> */}
                                 no slides 
                                 </td>
                                     
@@ -172,7 +172,7 @@ const FS24 = () => {
                                    
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/FS24/ACOCII_FS24_L4.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 4</Link>
+                                    <Link href="/download/FS24/ACOCII_FS24_L4.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 4</Link>
                                 </td> 
                             </tr> 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
@@ -183,7 +183,7 @@ const FS24 = () => {
                                 27.03.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                <Link href="/download/FS24/ACOC_II_U5.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 5 </Link>
+                                <Link href="/download/FS24/ACOC_II_U5.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 5 </Link>
                                 
                                 </td>
                                     
@@ -193,7 +193,7 @@ const FS24 = () => {
 
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    {/* <Link href="/download/FS24/ACOCII_FS24_L4.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 4</Link> */}
+                                    {/* <Link href="/download/FS24/ACOCII_FS24_L4.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 4</Link> */}
                                     <p>no solution </p>
                                 </td> 
                             </tr> 
@@ -205,7 +205,7 @@ const FS24 = () => {
                                 09.04.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                <Link href="/download/FS24/ACOC_II_U6.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 6 </Link>
+                                <Link href="/download/FS24/ACOC_II_U6.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 6 </Link>
                                 
                                 </td>
                                     
@@ -215,7 +215,7 @@ const FS24 = () => {
 
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/FS24/ACOCII_FS24_L5.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 5</Link>
+                                    <Link href="/download/FS24/ACOCII_FS24_L5.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 5</Link>
 
                                 </td> 
                             </tr> 
@@ -227,7 +227,7 @@ const FS24 = () => {
                                 17.04.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                <Link href="/download/FS24/ACOC_II_U7.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 7 </Link>
+                                <Link href="/download/FS24/ACOC_II_U7.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 7 </Link>
                                 
                                 </td>
                                     
@@ -237,7 +237,7 @@ const FS24 = () => {
 
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/FS24/ACOCII_FS24_L6.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 6</Link>
+                                    <Link href="/download/FS24/ACOCII_FS24_L6.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 6</Link>
 
                                 </td> 
                             </tr> 
@@ -249,7 +249,7 @@ const FS24 = () => {
                                 23.04.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                <Link href="/download/FS24/ACOC_II_U8.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 8 </Link>
+                                <Link href="/download/FS24/ACOC_II_U8.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 8 </Link>
                                 
                                 </td>
                                     
@@ -259,7 +259,7 @@ const FS24 = () => {
 
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/FS24/ACOCII_FS24_L7.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 7</Link>
+                                    <Link href="/download/FS24/ACOCII_FS24_L7.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 7</Link>
 
                                 </td> 
                             </tr> 
@@ -271,7 +271,7 @@ const FS24 = () => {
                                 30.04.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                {/* <Link href="/download/FS24/ACOC_II_U8.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 8 </Link> */}
+                                {/* <Link href="/download/FS24/ACOC_II_U8.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 8 </Link> */}
                                 
                                 </td>
                                     
@@ -281,7 +281,7 @@ const FS24 = () => {
 
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    {/* <Link href="/download/FS24/ACOCII_FS24_L7.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 7</Link> */}
+                                    {/* <Link href="/download/FS24/ACOCII_FS24_L7.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 7</Link> */}
 
                                 </td> 
                             </tr> 
@@ -293,7 +293,7 @@ const FS24 = () => {
                                 07.05.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                <Link href="/download/FS24/ACOC_II_U10.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 10 </Link>
+                                <Link href="/download/FS24/ACOC_II_U10.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 10 </Link>
                                 
                                 </td>
                                     
@@ -303,7 +303,7 @@ const FS24 = () => {
 
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/FS24/ACOCII_FS24_L8.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 8</Link>
+                                    <Link href="/download/FS24/ACOCII_FS24_L8.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 8</Link>
 
                                 </td> 
                             </tr> 
@@ -315,7 +315,7 @@ const FS24 = () => {
                                 14.05.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                <Link href="/download/FS24/ACOC_II_U11.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 11 </Link>
+                                <Link href="/download/FS24/ACOC_II_U11.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 11 </Link>
                                 
                                 </td>
                                     
@@ -325,7 +325,7 @@ const FS24 = () => {
 
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/FS24/ACOCII_FS24_L9.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 9</Link>
+                                    <Link href="/download/FS24/ACOCII_FS24_L9.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 9</Link>
 
                                 </td> 
                             </tr> 
@@ -337,7 +337,7 @@ const FS24 = () => {
                                 22.05.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                <Link href="/download/FS24/ACOC_II_U12.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 12 </Link>
+                                <Link href="/download/FS24/ACOC_II_U12.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 12 </Link>
                                 
                                 </td>
                                     
@@ -347,7 +347,7 @@ const FS24 = () => {
 
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/FS24/ACOCII_FS24_L10.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 10</Link>
+                                    <Link href="/download/FS24/ACOCII_FS24_L10.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 10</Link>
 
                                 </td> 
                             </tr> 
@@ -359,7 +359,7 @@ const FS24 = () => {
                                 29.05.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                <Link href="/download/FS24/ACOC_II_U13.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 13 </Link>
+                                <Link href="/download/FS24/ACOC_II_U13.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 13 </Link>
                                 
                                 </td>
                                     
@@ -369,7 +369,7 @@ const FS24 = () => {
 
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/FS24/ACOCII_FS24_L11.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 11</Link>
+                                    <Link href="/download/FS24/ACOCII_FS24_L11.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Solution 11</Link>
 
                                 </td> 
                             </tr> 

@@ -87,7 +87,7 @@ const HS23 = () => {
                     25.09.23
                 </td>
                 <td className="px-6 py-4 ">
-                    <Link href="/download/HS23/ACOC_I_U1.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 1</Link>
+                    <Link href="/download/HS23/ACOC_I_U1.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 1</Link>
                 </td>
                 <td className="px-6 py-4 text-transparent">
 
@@ -101,10 +101,10 @@ const HS23 = () => {
                 02.10.23
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_U2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 2</Link>
+                    <Link href="/download/HS23/ACOC_I_U2.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 2</Link>
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_1.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Solution 1</Link>
+                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_1.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline">Solution 1</Link>
                 </td>
             </tr> 
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
@@ -115,10 +115,10 @@ const HS23 = () => {
                 09.10.23
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_U3.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 3</Link>
+                    <Link href="/download/HS23/ACOC_I_U3.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 3</Link>
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Solution 2</Link>
+                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_2.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline">Solution 2</Link>
                 </td>
             </tr> 
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
@@ -129,10 +129,10 @@ const HS23 = () => {
                 16.10.23
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_U4.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 4</Link>
+                    <Link href="/download/HS23/ACOC_I_U4.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 4</Link>
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_3.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Solution 3</Link>
+                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_3.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline">Solution 3</Link>
                 </td>
             </tr> 
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
@@ -143,10 +143,10 @@ const HS23 = () => {
                 23.10.23
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_U5.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 5</Link>
+                    <Link href="/download/HS23/ACOC_I_U5.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 5</Link>
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_4.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Solution 4</Link>
+                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_4.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline">Solution 4</Link>
                 </td>
             </tr> 
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
@@ -157,10 +157,10 @@ const HS23 = () => {
                 30.10.23
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_U6.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 6</Link>
+                    <Link href="/download/HS23/ACOC_I_U6.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 6</Link>
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_5.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Solution 5</Link>
+                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_5.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline">Solution 5</Link>
                 </td>
             </tr> 
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
@@ -171,10 +171,10 @@ const HS23 = () => {
                 06.11.23
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_U7.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 7</Link>
+                    <Link href="/download/HS23/ACOC_I_U7.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 7</Link>
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_6.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Solution 6</Link>
+                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_6.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline">Solution 6</Link>
                 </td>
             </tr> 
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
@@ -185,10 +185,10 @@ const HS23 = () => {
                 13.11.23
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_U8.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 8</Link>
+                    <Link href="/download/HS23/ACOC_I_U8.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 8</Link>
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_7.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Solution 7</Link>
+                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_7.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline">Solution 7</Link>
                 </td>
             </tr> 
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
@@ -199,10 +199,10 @@ const HS23 = () => {
                 20.11.23
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_U9.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 9</Link>
+                    <Link href="/download/HS23/ACOC_I_U9.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 9</Link>
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_8.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Solution 8</Link>
+                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_8.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline">Solution 8</Link>
                 </td>
             </tr> 
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
@@ -213,10 +213,10 @@ const HS23 = () => {
                 27.11.23
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_U10.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 10</Link>
+                    <Link href="/download/HS23/ACOC_I_U10.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 10</Link>
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_8.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Solution 9</Link>
+                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_8.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline">Solution 9</Link>
                 </td>
             </tr> 
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
@@ -227,10 +227,10 @@ const HS23 = () => {
                 04.12.23
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_U11.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 11</Link>
+                    <Link href="/download/HS23/ACOC_I_U11.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 11</Link>
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_10 .pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Solution 10</Link>
+                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_10 .pdf" className=" text-blue-600 dark:text-blue-500 hover:underline">Solution 10</Link>
                 </td>
             </tr>
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
@@ -241,10 +241,10 @@ const HS23 = () => {
                 11.12.23
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_U12.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 12</Link>
+                    <Link href="/download/HS23/ACOC_I_U12.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 12</Link>
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_11.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Solution 11</Link>
+                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_11.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline">Solution 11</Link>
                 </td>
             </tr>
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
@@ -255,10 +255,10 @@ const HS23 = () => {
                 18.12.23
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_U13.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 13</Link>
+                    <Link href="/download/HS23/ACOC_I_U13.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 13</Link>
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_12.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Solution 12</Link>
+                    <Link href="/download/HS23/ACOC_I_HS23_Loesung_12.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline">Solution 12</Link>
                 </td>
             </tr>
             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
@@ -269,10 +269,10 @@ const HS23 = () => {
                 18.12.23
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/kahoot_aufg.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Question</Link>
+                    <Link href="/download/HS23/kahoot_aufg.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Question</Link>
                 </td>
                 <td className="px-6 py-4">
-                    <Link href="/download/HS23/kahoot_los.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Answer</Link>
+                    <Link href="/download/HS23/kahoot_los.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline">Answer</Link>
                 </td>
             </tr>
             

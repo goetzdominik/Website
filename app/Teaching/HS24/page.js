@@ -85,7 +85,7 @@ const HS24 = () => {
                                 24.09.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS24/ex1.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 2</Link>
+                                    <Link href="/download/HS24/ex1.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 2</Link>
                                 </td>
                                
                             </tr> 
@@ -98,7 +98,7 @@ const HS24 = () => {
                                 01.10.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS24/ex2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 3</Link>
+                                    <Link href="/download/HS24/ex2.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 3</Link>
                                 </td>
                                
                             </tr> 
@@ -110,7 +110,7 @@ const HS24 = () => {
                                 08.10.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS24/ex3.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 4</Link>
+                                    <Link href="/download/HS24/ex3.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 4</Link>
                                 </td>
                                
                             </tr> 
@@ -122,7 +122,7 @@ const HS24 = () => {
                                 15.10.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS24/ex4.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 5</Link>
+                                    <Link href="/download/HS24/ex4.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 5</Link>
                                 </td>
                                
                             </tr> 
@@ -134,7 +134,7 @@ const HS24 = () => {
                                 22.10.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS24/ex5.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 6</Link>
+                                    <Link href="/download/HS24/ex5.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 6</Link>
                                 </td>
                                
                             </tr> 
@@ -146,7 +146,7 @@ const HS24 = () => {
                                 29.10.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS24/ex6.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 7</Link>
+                                    <Link href="/download/HS24/ex6.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 7</Link>
                                 </td>
                                
                             </tr> 
@@ -158,7 +158,7 @@ const HS24 = () => {
                                 05.11.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS24/ex7.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 8</Link>
+                                    <Link href="/download/HS24/ex7.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 8</Link>
                                 </td>
                                
                             </tr> 
@@ -170,7 +170,7 @@ const HS24 = () => {
                                 12.11.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS24/ex8.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 9</Link>
+                                    <Link href="/download/HS24/ex8.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 9</Link>
                                 </td>
                                
                             </tr> 
@@ -182,7 +182,7 @@ const HS24 = () => {
                                 19.11.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS24/ex9.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 10</Link>
+                                    <Link href="/download/HS24/ex9.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 10</Link>
                                 </td>
                                
                             </tr> 
@@ -194,7 +194,7 @@ const HS24 = () => {
                                 26.11.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS24/ex10.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 11</Link>
+                                    <Link href="/download/HS24/ex10.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 11</Link>
                                 </td>
                                
                             </tr> 
@@ -206,7 +206,7 @@ const HS24 = () => {
                                 03.12.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS24/ex11.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 12</Link>
+                                    <Link href="/download/HS24/ex11.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 12</Link>
                                 </td>
                                
                             </tr> 
@@ -218,7 +218,7 @@ const HS24 = () => {
                                 10.12.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS24/ex12.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 13</Link>
+                                    <Link href="/download/HS24/ex12.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 13</Link>
                                 </td>
                                
                             </tr> 
