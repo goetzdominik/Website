@@ -37,7 +37,7 @@ const Navbar = () => {
         { href: "/Teaching/FS24", label: "FS24: ACOC II" },
         { href: "/Teaching/HS23", label: "HS23: ACOC I" },
         { href: "/Teaching/FS23", label: "FS23: ACAC II" },
-        { href: "/Teaching/HS22", label: "HS22: Informatics I" },
+        { href: "/Teaching/HS22", label: "HS22: Informatik I" },
         { href: "/PVK/ACOCII", label: "FS24: ACOC II (PVK)" },
         { href: "/Library", label: "Library"  }
     ];
