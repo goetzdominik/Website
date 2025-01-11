@@ -1,6 +1,6 @@
 'use client'
 import Card from '@/components/Card'
-
+import AI_Footer from '@/components/AI_Footer'
 export default function Home() {
   return (
 
@@ -13,37 +13,37 @@ export default function Home() {
                     imgSrc="/img/Main/FS25.jpg"
                     imgAlt="ACOCII"
                     title="ACOC II "
-                    description="Slides and Mentis."
+                    description="Slides and Mentis.**"
                     semester="FS25"
-                    aiTag="AI generated"
-                    remark="up next"
+                    // aiTag="AI generated"
+                    // remark="up next"
                 />
                 <Card
                     href="/Teaching/HS24"
                     imgSrc="/img/Main/OCI.jpg"
                     imgAlt="NextUI hero Image with delay"
                     title="OC I"
-                    description="Session Notes."
+                    description="Session Notes.**"
                     semester="HS24"
-                    aiTag="AI generated"
-                    remark="currently"
+                    // aiTag="AI generated"
+                    // remark="currently"
                 />
                 <Card
                     href="/Teaching/FS24"
                     imgSrc="/img/Main/ACOCII.jpg"
                     imgAlt="NextUI hero Image with delay"
                     title="ACOC II"
-                    description="Slides and Mentis."
+                    description="Slides and Mentis.**"
                     semester="FS24"
-                    aiTag="AI generated"
+                    // aiTag="AI generated"
                 />
                 <Card
                     href="/Teaching"
                     imgSrc="/img/Main/past_teachings.jpeg"
                     imgAlt="ACACII"
                     title="All Teachings"
-                    description="Current and past exercise session."
-                    aiTag="AI generated"
+                    description="Current and past exercise session.**"
+                    // aiTag="AI generated"
                 />
             </div>
             <h3 className="page_title mt-6">Personal</h3>
@@ -74,12 +74,17 @@ export default function Home() {
                     imgSrc="/img/Main/contact.jpg"
                     imgAlt="Contact"
                     title="Contact Me"
-                    description="Get in Touch with me!"
-                    aiTag="AI generated"
+                    description="Get in Touch with me!**"
+                    // aiTag="AI generated"
                 />
             </div>
         </div>
-
+        <AI_Footer/>
+        {/* <div className = " z-0 flex items-center justify-center m-8">
+            <p className= "items-center absolute bottom-8   p-4">
+                * Image is AI generated.
+            </p>
+        </div> */}
     </main>
   )
 }

@@ -103,8 +103,8 @@ const Library = () => {
                                         PC I
                                         </th>
                                         <td className="px-6 py-4 ">
-                                            {/* <Link href="/download/Bib/J1/PCI.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">PSE</Link> */}
-                                            TBA
+                                            <Link href="/download/Bib/J1/PCI.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">PC-Spick: Dominik Götz</Link>
+
                                         </td> 
                                     </tr> 
 

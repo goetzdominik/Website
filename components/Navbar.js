@@ -32,8 +32,8 @@ const Navbar = () => {
   ];
 
     const menuItems = [
-        { href: "/Teaching/FS25", label: "FS25: ACOC II (up next)" },
-        { href: "/Teaching/HS24", label: "HS24: OC I (currently)" },
+        { href: "/Teaching/FS25", label: "FS25: ACOC II" },
+        { href: "/Teaching/HS24", label: "HS24: OC I" },
         { href: "/Teaching/FS24", label: "FS24: ACOC II" },
         { href: "/Teaching/HS23", label: "HS23: ACOC I" },
         { href: "/Teaching/FS23", label: "FS23: ACAC II" },
