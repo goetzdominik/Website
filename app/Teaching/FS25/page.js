@@ -53,10 +53,10 @@ const FS25 = () => {
                 </div>
                 <div className =" md:w-2/7 text_card">
                     <h2>
-                    Slides
+                    Session and Slides
                     </h2>
                     <p className="text-gray-500 ">
-                    Below you will find my notes for the exercise session with tips for the series. These are in no way a substitute for the scripts or the lecture and should only be used as additional aids.
+                    We are meeting every Wednesday at 15:45 in HCI H 2.1, please be on time. Below you will find my notes for the exercise session with tips for the series. These are in no way a substitute for the scripts or the lecture and should only be used as additional aids.
 
                     </p>
                 </div>
