@@ -107,7 +107,7 @@ const FS25 = () => {
                                 26.02.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    {/* <Link href="/download/FS24/ACOC_II_U1.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 1</Link> */}
+                                    <Link href="/download/FS25/Week1.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 1</Link>
                                 </td>
                                 {/* <td className="px-6 py-4 ">    
                                     no menti
