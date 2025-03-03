@@ -104,7 +104,7 @@ const FS25 = () => {
                                 Introduction
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
-                                26.02.2024
+                                26.02.2025
                                 </td>
                                 <td className="px-6 py-4 ">
                                     <Link href="/download/FS25/Week1.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 1</Link>
@@ -116,7 +116,23 @@ const FS25 = () => {
                                     <Link href="/download/FS24/Handouts.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Handouts</Link>
                                 </td> 
                             </tr> 
-                          
+                            <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                Elektrophil und Nucleophil
+                                </th>
+                                <td className="px-6 py-4 hidden md:block ">
+                                05.03.2025
+                                </td>
+                                <td className="px-6 py-4 ">
+                                    <Link href="/download/FS25/Week2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 1</Link>
+                                </td>
+                                {/* <td className="px-6 py-4 ">    
+                                    no menti
+                                </td> */}
+                                {/* <td className="px-6 py-4 ">
+                                    <Link href="/download/FS24/Handouts.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Handouts</Link>
+                                </td>  */}
+                            </tr> 
                         </tbody>
                     </table>
                 </div>
