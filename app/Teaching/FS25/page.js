@@ -124,7 +124,7 @@ const FS25 = () => {
                                 05.03.2025
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/FS25/Week2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 2</Link>
+                                    <Link href="/download/FS25/week2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 2</Link>
                                 </td>
                                 <td className="px-6 py-4 ">    
 
@@ -154,7 +154,7 @@ const FS25 = () => {
                                 18.03.2025
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/FS25/Week4.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 4</Link>
+                                    <Link href="/download/FS25/week4.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 4</Link>
                                 </td>
                                 <td className="px-6 py-4 ">    
                                   
