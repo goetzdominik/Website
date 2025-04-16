@@ -99,6 +99,23 @@ const FS25 = () => {
                             </tr>
                         </thead>
                         <tbody>
+                        <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                No Session
+                                </th>
+                                <td className="px-6 py-4 hidden md:block ">
+                                19.02.2025
+                                </td>
+                                <td className="px-6 py-4 ">
+                                    {/* <Link href="/download/FS25/Week1.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 1</Link> */}
+                                </td>
+                                {/* <td className="px-6 py-4 ">    
+                                    no menti
+                                </td> */}
+                                <td className="px-6 py-4 ">
+                                    {/* <Link href="/download/FS24/Handouts.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Handouts</Link> */}
+                                </td> 
+                            </tr> 
                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
                                 <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 Introduction
@@ -107,7 +124,7 @@ const FS25 = () => {
                                 26.02.2025
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/FS25/Week1.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 1</Link>
+                                    <Link href="/download/FS25/Week1.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 2</Link>
                                 </td>
                                 {/* <td className="px-6 py-4 ">    
                                     no menti
@@ -124,7 +141,7 @@ const FS25 = () => {
                                 05.03.2025
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/FS25/week2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 2</Link>
+                                    <Link href="/download/FS25/week2.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 3</Link>
                                 </td>
                                 <td className="px-6 py-4 ">    
 
@@ -139,7 +156,7 @@ const FS25 = () => {
                                 11.03.2025
                                 </td>
                                 <td className="px-6 py-4 "> 
-                                    <Link href="/download/FS25/Week3.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week  3</Link>
+                                    <Link href="/download/FS25/Week3.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week  4</Link>
                                 </td>
                                 <td className="px-6 py-4 ">    
                                     
@@ -154,7 +171,7 @@ const FS25 = () => {
                                 18.03.2025
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/FS25/week4.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 4</Link>
+                                    <Link href="/download/FS25/week4.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 5</Link>
                                 </td>
                                 <td className="px-6 py-4 ">    
                                   
@@ -184,7 +201,7 @@ const FS25 = () => {
                                 02.04.2025
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/FS25/week6.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 6</Link>
+                                    <Link href="/download/FS25/week6.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 7</Link>
                                 </td>
                                 <td className="px-6 py-4 ">    
                                   
@@ -199,8 +216,40 @@ const FS25 = () => {
                                 09.04.2025
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/FS25/week7.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 7
+                                    <Link href="/download/FS25/week7.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 8
                                     </Link>
+                                </td>
+                                <td className="px-6 py-4 ">    
+                                  
+                                </td> 
+                                
+                            </tr> 
+                            <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                Sn1 vs Sn2
+                                </th>
+                                <td className="px-6 py-4 hidden md:block ">
+                                16.04.2025
+                                </td>
+                                <td className="px-6 py-4 ">
+                                    <Link href="/download/FS25/week8.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 9
+                                    </Link>
+                                </td>
+                                <td className="px-6 py-4 ">    
+                                  
+                                </td> 
+                                
+                            </tr> 
+                            <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                No Session: Easter Break
+                                </th>
+                                <td className="px-6 py-4 hidden md:block ">
+                                23.04.2025
+                                </td>
+                                <td className="px-6 py-4 ">
+                                    {/* <Link href="/download/FS25/week8.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 9
+                                    </Link> */}
                                 </td>
                                 <td className="px-6 py-4 ">    
                                   
