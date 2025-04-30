@@ -256,6 +256,22 @@ const FS25 = () => {
                                 </td> 
                                 
                             </tr> 
+                            <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                Neighboring group participation 
+                                </th>
+                                <td className="px-6 py-4 hidden md:block ">
+                                30.04.2025
+                                </td>
+                                <td className="px-6 py-4 ">
+                                    <Link href="/download/FS25/week11.pdf" className="font-medium text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 11
+                                    </Link>
+                                </td>
+                                <td className="px-6 py-4 ">    
+                                  
+                                </td> 
+                                
+                            </tr> 
                         </tbody>
                     </table>
                 </div>
