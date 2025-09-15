@@ -32,6 +32,7 @@ const Navbar = () => {
   ];
 
     const menuItems = [
+        { href: "/Teaching/HS25", label: "HS25: OC I" },
         { href: "/Teaching/FS25", label: "FS25: ACOC II" },
         { href: "/Teaching/HS24", label: "HS24: OC I" },
         { href: "/Teaching/FS24", label: "FS24: ACOC II" },
@@ -84,7 +85,7 @@ const Navbar = () => {
                 
                 <div className="flex flex-wrap items-center justify-center pt-4 p-1 lg:p-4">
                     <Link href="/" onClick={closeMenu} className="flex items-center mt-1 hover:text-gray-500 space-x-3 rtl:space-x-reverse p-4">
-                        <span className="self-center text-4xl  font-semibold whitespace-nowrap dark:text-white">Dominik Götz</span>
+                        <span className="self-center text-4xl  font-semibold whitespace-nowrap dark:text-white">D. Götz</span>
                     </Link>
                     <div className="flex lg:order-2 mt-2 space-x-3 lg:space-x-0 rtl:space-x-reverse">
                         <Button isIconOnly color="warning" variant="faded" aria-label="Take a photo"

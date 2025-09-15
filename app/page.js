@@ -9,6 +9,15 @@ export default function Home() {
             <h3 className="page_title">Teaching</h3>
             <div className="card_layout_4">
                 <Card
+                    href="/Teaching/HS25"
+                    imgSrc="/img/Main/ACOCII.jpg"
+                    imgAlt="NextUI hero Image with delay"
+                    title="OC I"
+                    description="Slides and Mentis.**"
+                    semester="HS25"
+                    // aiTag="AI generated"
+                />
+                <Card
                     href="/Teaching/FS25"
                     imgSrc="/img/Main/FS25.jpg"
                     imgAlt="ACOCII"
@@ -28,15 +37,7 @@ export default function Home() {
                     // aiTag="AI generated"
                     // remark="currently"
                 />
-                <Card
-                    href="/Teaching/FS24"
-                    imgSrc="/img/Main/ACOCII.jpg"
-                    imgAlt="NextUI hero Image with delay"
-                    title="ACOC II"
-                    description="Slides and Mentis.**"
-                    semester="FS24"
-                    // aiTag="AI generated"
-                />
+                
                 <Card
                     href="/Teaching"
                     imgSrc="/img/Main/past_teachings.jpeg"
