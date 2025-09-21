@@ -65,12 +65,12 @@ const HS24 = () => {
                             </tr>
                         </thead>
                         <tbody>
-                        {/* <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                         <tr className="odd:bg-white  even:bg-gray-0 border-b ">
                                 <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 No Session
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
-                                17.09.2024
+                                14.09.2024
                                 </td>
                                 <td className="px-6 py-4 ">
                                     
@@ -82,13 +82,13 @@ const HS24 = () => {
                                 Recap of ACOC 
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
-                                24.09.2024
+                                21.09.2024
                                 </td>
                                 <td className="px-6 py-4 ">
-                                    <Link href="/download/HS24/ex1.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 2</Link>
+                                    <Link href="/download/HS25/WOCHE 2.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 2</Link>
                                 </td>
                                
-                            </tr>  */}
+                            </tr>  
 
                            
                         </tbody>
