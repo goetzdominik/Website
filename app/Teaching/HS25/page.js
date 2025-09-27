@@ -21,7 +21,7 @@ const HS24 = () => {
                         Session and Slides
                     </h2>
                      <p className="text-gray-500">
-                        We are meeting every Monday at 11:45 (place TBD) , please be on time. Below you will find my notes for the exercise session with tips for the series. These are in no way a substitute for the scripts or the lecture and should only be used as additional aids.
+                        We are meeting every Monday at 11:45 (HCI D56), please be on time. Below you will find my notes for the exercise session with tips for the series. These are in no way a substitute for the scripts or the lecture and should only be used as additional aids.
                     </p>
                 </div>
                 <div className =" md:w-2/5 text_card_icon ">
@@ -70,7 +70,7 @@ const HS24 = () => {
                                 No Session
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
-                                14.09.2024
+                                15.09.2025
                                 </td>
                                 <td className="px-6 py-4 ">
                                     
@@ -82,10 +82,22 @@ const HS24 = () => {
                                 Recap of ACOC 
                                 </th>
                                 <td className="px-6 py-4 hidden md:block ">
-                                21.09.2024
+                                22.09.20245
                                 </td>
                                 <td className="px-6 py-4 ">
                                     <Link href="/download/HS25/WOCHE 2.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 2</Link>
+                                </td>
+                               
+                            </tr>  
+                            <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                Serie 2 
+                                </th>
+                                <td className="px-6 py-4 hidden md:block ">
+                                29.09.2025
+                                </td>
+                                <td className="px-6 py-4 ">
+                                    <Link href="/download/HS25/Woche 3.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 3</Link>
                                 </td>
                                
                             </tr>  
