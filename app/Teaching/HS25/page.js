@@ -125,6 +125,18 @@ const HS24 = () => {
                                 </td>
                                
                             </tr>  
+                             <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                Serie 5
+                                </th>
+                                <td className="px-6 py-4 hidden md:block ">
+                                20.10.2025
+                                </td>
+                                <td className="px-6 py-4 ">
+                                    <Link href="/download/HS25/Woche 6.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 6</Link>
+                                </td>
+                               
+                            </tr>  
                         </tbody>
                     </table>
                 </div>
