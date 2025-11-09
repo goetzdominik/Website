@@ -148,7 +148,8 @@ const HS24 = () => {
                                     <Link href="/download/HS25/Woche 7.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 7</Link>
                                 </td>
                                
-                            </tr>    <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                            </tr> 
+                            <tr className="odd:bg-white  even:bg-gray-0 border-b ">
                                 <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
                                 Serie 7
                                 </th>
@@ -157,6 +158,18 @@ const HS24 = () => {
                                 </td>
                                 <td className="px-6 py-4 ">
                                     <Link href="/download/HS25/Woche 8.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 8</Link>
+                                </td>
+                               
+                            </tr> 
+                            <tr className="odd:bg-white  even:bg-gray-0 border-b ">
+                                <th scope="row" className="px-6 py-4 font-medium text-gray-900  ">
+                                Serie 8
+                                </th>
+                                <td className="px-6 py-4 hidden md:block ">
+                                10.11.2025
+                                </td>
+                                <td className="px-6 py-4 ">
+                                    <Link href="/download/HS25/Woche 9.pdf" className=" text-blue-600 dark:text-blue-500 hover:underline"  target="_blank">Week 9</Link>
                                 </td>
                                
                             </tr> 
